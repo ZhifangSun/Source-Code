@@ -1,0 +1,1099 @@
+Epigenomics_24_0.xml
+The scheduler = Genetic, makespan = 2409.46
+0.36599183082580566
+The scheduler = Genetic, makespan = 2423.57
+0.394944429397583
+The scheduler = Genetic, makespan = 2482.25
+0.41791272163391113
+The scheduler = Genetic, makespan = 2402.20
+0.10967540740966797
+The scheduler = Genetic, makespan = 2457.60
+0.2343733310699463
+The scheduler = Genetic, makespan = 2440.59
+0.2593064308166504
+The scheduler = Genetic, makespan = 2466.73
+0.2732691764831543
+The scheduler = Genetic, makespan = 2356.49
+0.28822875022888184
+The scheduler = Genetic, makespan = 2474.41
+0.32515907287597656
+The scheduler = Genetic, makespan = 2461.16
+0.13663721084594727
+The scheduler = HGA, makespan = 2414.75
+0.8008484840393066
+The scheduler = HGA, makespan = 2452.97
+1.101081371307373
+The scheduler = HGA, makespan = 2477.22
+1.2376899719238281
+The scheduler = HGA, makespan = 2475.21
+0.8896193504333496
+The scheduler = HGA, makespan = 2460.68
+0.8915872573852539
+The scheduler = HGA, makespan = 2450.66
+1.0213124752044678
+The scheduler = HGA, makespan = 2440.69
+0.8537156581878662
+The scheduler = HGA, makespan = 2476.55
+1.1568775177001953
+The scheduler = HGA, makespan = 2478.76
+0.7729318141937256
+The scheduler = HGA, makespan = 2404.04
+1.1659095287322998
+The scheduler = NGA, makespan = 2338.47
+0.2204129695892334
+The scheduler = NGA, makespan = 2328.85
+0.2183856964111328
+The scheduler = NGA, makespan = 2330.07
+0.19450712203979492
+The scheduler = NGA, makespan = 2323.39
+0.22739243507385254
+The scheduler = NGA, makespan = 2333.61
+0.2234022617340088
+The scheduler = NGA, makespan = 2325.73
+0.2144303321838379
+The scheduler = NGA, makespan = 2325.73
+0.20345854759216309
+The scheduler = NGA, makespan = 2326.11
+0.25032949447631836
+The scheduler = NGA, makespan = 2333.48
+0.19448113441467285
+The scheduler = NGA, makespan = 2328.85
+0.20445537567138672
+The scheduler = LWSGA, makespan = 2435.47
+81.037184715271
+The scheduler = LWSGA, makespan = 2455.83
+12.739918947219849
+The scheduler = LWSGA, makespan = 2420.48
+0.5934405326843262
+The scheduler = LWSGA, makespan = 2437.17
+21.795696020126343
+The scheduler = LWSGA, makespan = 2482.09
+5.979003667831421
+The scheduler = LWSGA, makespan = 2429.75
+9.459667444229126
+The scheduler = LWSGA, makespan = 2460.24
+0.19849634170532227
+The scheduler = LWSGA, makespan = 2448.88
+1.3304390907287598
+The scheduler = LWSGA, makespan = 2434.69
+0.13561058044433594
+The scheduler = LWSGA, makespan = 2418.85
+37.58545470237732
+The scheduler = Evolution, makespan = 2447.20
+0.47974586486816406
+The scheduler = Evolution, makespan = 2479.00
+1.1658775806427002
+The scheduler = Evolution, makespan = 2433.61
+1.9617555141448975
+The scheduler = Evolution, makespan = 2432.01
+0.18946266174316406
+The scheduler = Evolution, makespan = 2434.02
+2.024611234664917
+The scheduler = Evolution, makespan = 2457.90
+0.28022265434265137
+The scheduler = Evolution, makespan = 2444.89
+0.8716685771942139
+The scheduler = Evolution, makespan = 2436.14
+1.142942190170288
+The scheduler = Evolution, makespan = 2449.96
+1.0173060894012451
+The scheduler = Evolution, makespan = 2455.66
+0.7798850536346436
+
+The scheduler = wolf, makespan = 2473.78
+0.8517224788665771
+The scheduler = wolf, makespan = 2473.49
+0.453815221786499
+The scheduler = wolf, makespan = 2471.08
+0.5295534133911133
+The scheduler = wolf, makespan = 2456.94
+0.3640270233154297
+The scheduler = wolf, makespan = 2453.11
+0.20049166679382324
+The scheduler = wolf, makespan = 2487.69
+0.3530573844909668
+The scheduler = wolf, makespan = 2467.75
+0.5494999885559082
+The scheduler = wolf, makespan = 2444.58
+0.29720425605773926
+The scheduler = wolf, makespan = 2477.08
+0.8327734470367432
+The scheduler = wolf, makespan = 2454.54
+0.28822803497314453
+
+Epigenomics_100_0.xml
+The scheduler = Genetic, makespan = 38968.29
+0.5864346027374268
+The scheduler = Genetic, makespan = 38968.29
+0.578449010848999
+The scheduler = Genetic, makespan = 38968.29
+0.5445132255554199
+The scheduler = Genetic, makespan = 38968.29
+0.5904207229614258
+The scheduler = Genetic, makespan = 38968.29
+0.5685076713562012
+The scheduler = Genetic, makespan = 38968.29
+0.5515317916870117
+The scheduler = Genetic, makespan = 38968.29
+0.5784485340118408
+The scheduler = Genetic, makespan = 38968.29
+0.6063780784606934
+The scheduler = Genetic, makespan = 38968.29
+0.5804121494293213
+The scheduler = Genetic, makespan = 38968.29
+0.5983998775482178
+The scheduler = HGA, makespan = 44305.61
+11.362603425979614
+The scheduler = HGA, makespan = 44962.55
+516.8623337745667
+The scheduler = HGA, makespan = 45354.38
+15.798766374588013
+The scheduler = HGA, makespan = 45374.15
+13.887845039367676
+The scheduler = HGA, makespan = 45479.46
+15.396814346313477
+The scheduler = HGA, makespan = 43463.24
+11.832320213317871
+The scheduler = HGA, makespan = 45388.80
+16.37123441696167
+The scheduler = HGA, makespan = 44865.43
+22.955562353134155
+The scheduler = HGA, makespan = 44394.88
+17.131143808364868
+The scheduler = HGA, makespan = 44181.94
+10.456030130386353
+The scheduler = NGA, makespan = 35671.15
+1.7373828887939453
+The scheduler = NGA, makespan = 35671.15
+1.6655151844024658
+The scheduler = NGA, makespan = 35671.15
+1.652611255645752
+The scheduler = NGA, makespan = 35671.15
+1.651550054550171
+The scheduler = NGA, makespan = 35671.15
+1.6146812438964844
+The scheduler = NGA, makespan = 35671.15
+1.686523199081421
+The scheduler = NGA, makespan = 35671.15
+1.8021695613861084
+The scheduler = NGA, makespan = 35671.15
+1.7213971614837646
+The scheduler = NGA, makespan = 35671.15
+1.6047072410583496
+The scheduler = NGA, makespan = 35671.15
+1.7922186851501465
+The scheduler = LWSGA, makespan = 43036.53
+0.6292765140533447
+The scheduler = LWSGA, makespan = 41153.22
+0.6522822380065918
+The scheduler = LWSGA, makespan = 43611.04
+0.6462428569793701
+The scheduler = LWSGA, makespan = 43489.97
+0.638322114944458
+The scheduler = LWSGA, makespan = 38188.99
+0.6462419033050537
+The scheduler = LWSGA, makespan = 40028.00
+0.6243612766265869
+The scheduler = LWSGA, makespan = 45073.28
+0.5624921321868896
+The scheduler = LWSGA, makespan = 42042.49
+0.6263251304626465
+The scheduler = LWSGA, makespan = 45048.84
+0.6652202606201172
+The scheduler = LWSGA, makespan = 45418.83
+0.6133623123168945
+The scheduler = Evolution, makespan = 43624.86
+32.20185613632202
+The scheduler = Evolution, makespan = 45044.14
+433.542197227478
+The scheduler = Evolution, makespan = 45257.28
+218.13945031166077
+The scheduler = Evolution, makespan = 43921.05
+120.1346263885498
+The scheduler = Evolution, makespan = 45163.30
+245.27389311790466
+The scheduler = Evolution, makespan = 45528.42
+906.1459550857544
+The scheduler = Evolution, makespan = 43910.17
+372.99023628234863
+The scheduler = Evolution, makespan = 45293.09
+597.7379548549652
+The scheduler = Evolution, makespan = 44632.25
+150.81355619430542
+The scheduler = Evolution, makespan = 43804.20
+407.4031503200531
+
+The scheduler = wolf, makespan = 44982.91
+4.791214942932129
+The scheduler = wolf, makespan = 44831.62
+6.24426531791687
+The scheduler = wolf, makespan = 45374.49
+4.914851188659668
+The scheduler = wolf, makespan = 43989.05
+4.491982936859131
+The scheduler = wolf, makespan = 45271.25
+5.803507328033447
+The scheduler = wolf, makespan = 44382.06
+5.373621225357056
+The scheduler = wolf, makespan = 42942.54
+5.395538806915283
+The scheduler = wolf, makespan = 45354.51
+1.7323968410491943
+The scheduler = wolf, makespan = 42529.65
+3.949431896209717
+The scheduler = wolf, makespan = 45239.84
+3.476699113845825
+
+Epigenomics_997_0.xml
+The scheduler = Genetic, makespan = 327254.13
+29.228809595108032
+The scheduler = Genetic, makespan = 327254.13
+29.575908422470093
+The scheduler = Genetic, makespan = 327254.13
+29.537955284118652
+The scheduler = Genetic, makespan = 327254.13
+29.68458914756775
+The scheduler = Genetic, makespan = 327254.13
+29.42132329940796
+The scheduler = Genetic, makespan = 327254.13
+29.582834243774414
+The scheduler = Genetic, makespan = 327254.13
+29.89405846595764
+The scheduler = Genetic, makespan = 327254.13
+29.748419284820557
+The scheduler = Genetic, makespan = 327254.13
+30.3118839263916
+The scheduler = Genetic, makespan = 327254.13
+30.004733562469482
+The scheduler = HGA, makespan = 580301.56
+3575.790350675583
+The scheduler = HGA, makespan = 581141.37
+2206.74968957901
+The scheduler = HGA, makespan = 580818.12
+5432.485504627228
+The scheduler = HGA, makespan = 578601.32
+3366.2110064029694
+The scheduler = HGA, makespan = 580750.70
+2456.785788297653
+The scheduler = HGA, makespan = 580697.74
+3503.8198778629303
+The scheduler = HGA, makespan = 578236.96
+2464.2658326625824
+The scheduler = HGA, makespan = 580023.37
+2322.0163111686707
+The scheduler = HGA, makespan = 581413.01
+5052.995687007904
+The scheduler = HGA, makespan = 576892.55
+5658.410076379776
+The scheduler = NGA, makespan = 324329.04
+122.8254280090332
+The scheduler = NGA, makespan = 323775.39
+122.26296043395996
+The scheduler = NGA, makespan = 324211.74
+121.95572638511658
+The scheduler = NGA, makespan = 324094.34
+120.97640442848206
+The scheduler = NGA, makespan = 323747.89
+122.32376790046692
+The scheduler = NGA, makespan = 324224.33
+123.6990909576416
+The scheduler = NGA, makespan = 323938.21
+124.82405185699463
+The scheduler = NGA, makespan = 323597.13
+124.54582643508911
+The scheduler = NGA, makespan = 324028.16
+125.29684376716614
+The scheduler = NGA, makespan = 323843.73
+124.04317140579224
+The scheduler = LWSGA, makespan = 514107.91
+28.08982753753662
+The scheduler = LWSGA, makespan = 457334.87
+28.230480194091797
+The scheduler = LWSGA, makespan = 491480.31
+28.481807470321655
+The scheduler = LWSGA, makespan = 472836.48
+28.170640230178833
+The scheduler = LWSGA, makespan = 486684.76
+28.616448402404785
+The scheduler = LWSGA, makespan = 462935.85
+28.537659168243408
+The scheduler = LWSGA, makespan = 482349.49
+27.936294078826904
+The scheduler = LWSGA, makespan = 494909.58
+28.382046699523926
+The scheduler = LWSGA, makespan = 478864.83
+28.355146646499634
+The scheduler = LWSGA, makespan = 506237.27
+28.010108709335327
+The scheduler = Evolution, makespan = 572577.95
+42.23797011375427
+The scheduler = Evolution, makespan = 533896.89
+42.40658736228943
+The scheduler = Evolution, makespan = 542663.39
+42.47638201713562
+The scheduler = Evolution, makespan = 503480.87
+42.98201560974121
+The scheduler = Evolution, makespan = 558683.46
+42.9989447593689
+The scheduler = Evolution, makespan = 578940.88
+42.01959300041199
+The scheduler = Evolution, makespan = 574014.06
+42.42750144004822
+The scheduler = Evolution, makespan = 569790.13
+42.53321862220764
+The scheduler = Evolution, makespan = 552805.89
+42.55618500709534
+The scheduler = Evolution, makespan = 560738.95
+42.494301557540894
+
+The scheduler = wolf, makespan = 671235.02
+21825.339733362198
+The scheduler = wolf, makespan = 607077.92
+22013.17717385292
+The scheduler = wolf, makespan = 580005.86
+17050.276575803757
+The scheduler = wolf, makespan = 580075.43
+14770.934022665024
+The scheduler = wolf, makespan = 551846.38
+44.04719686508179
+The scheduler = wolf, makespan = 569280.92
+17541.235113620758
+The scheduler = wolf, makespan = 581520.16
+20775.391597747803
+The scheduler = wolf, makespan = 727220.13
+20978.9173114
+The scheduler = wolf, makespan = 667154.77
+21227.05867791176
+The scheduler = wolf, makespan = 578964.83
+18537.367444753647
+
+Ligo_30_0.xml
+The scheduler = Genetic, makespan = 733.03
+0.11469364166259766
+The scheduler = Genetic, makespan = 733.03
+0.11369442939758301
+The scheduler = Genetic, makespan = 733.03
+0.11568951606750488
+The scheduler = Genetic, makespan = 733.03
+0.11269879341125488
+The scheduler = Genetic, makespan = 733.03
+0.11369585990905762
+The scheduler = Genetic, makespan = 733.03
+0.1077115535736084
+The scheduler = Genetic, makespan = 733.03
+0.11369657516479492
+The scheduler = Genetic, makespan = 733.03
+0.10768461227416992
+The scheduler = Genetic, makespan = 733.03
+0.10671448707580566
+The scheduler = Genetic, makespan = 733.03
+0.10671377182006836
+The scheduler = HGA, makespan = 742.73
+1.0063090324401855
+The scheduler = HGA, makespan = 773.22
+0.41588592529296875
+The scheduler = HGA, makespan = 750.82
+0.9973328113555908
+The scheduler = HGA, makespan = 766.39
+0.8826382160186768
+The scheduler = HGA, makespan = 742.91
+0.8866281509399414
+The scheduler = HGA, makespan = 736.06
+0.40092897415161133
+The scheduler = HGA, makespan = 770.41
+0.7908840179443359
+The scheduler = HGA, makespan = 753.47
+0.8736617565155029
+The scheduler = HGA, makespan = 749.44
+1.039247989654541
+The scheduler = HGA, makespan = 770.22
+0.6781587600708008
+The scheduler = NGA, makespan = 671.79
+0.24534368515014648
+The scheduler = NGA, makespan = 666.40
+0.2792527675628662
+The scheduler = NGA, makespan = 669.33
+0.24833464622497559
+The scheduler = NGA, makespan = 673.39
+0.24836421012878418
+The scheduler = NGA, makespan = 666.71
+0.26925110816955566
+The scheduler = NGA, makespan = 665.17
+0.2503318786621094
+The scheduler = NGA, makespan = 666.17
+0.25332188606262207
+The scheduler = NGA, makespan = 666.76
+0.26429319381713867
+The scheduler = NGA, makespan = 670.58
+0.27227163314819336
+The scheduler = NGA, makespan = 666.47
+0.26130008697509766
+The scheduler = LWSGA, makespan = 758.24
+9.26222276687622
+The scheduler = LWSGA, makespan = 703.89
+0.13364148139953613
+The scheduler = LWSGA, makespan = 745.98
+85.46038508415222
+The scheduler = LWSGA, makespan = 765.35
+30.315901517868042
+The scheduler = LWSGA, makespan = 744.53
+145.83686780929565
+The scheduler = LWSGA, makespan = 728.02
+2.604034185409546
+The scheduler = LWSGA, makespan = 684.76
+214.02446103096008
+The scheduler = LWSGA, makespan = 767.06
+20.522101163864136
+The scheduler = LWSGA, makespan = 758.71
+201.88194227218628
+The scheduler = LWSGA, makespan = 774.94
+25.3322331905365
+The scheduler = Evolution, makespan = 759.14
+7.874933481216431
+The scheduler = Evolution, makespan = 777.01
+0.8078389167785645
+The scheduler = Evolution, makespan = 774.66
+10.709350347518921
+The scheduler = Evolution, makespan = 772.45
+1.777245283126831
+The scheduler = Evolution, makespan = 768.28
+1.8769803047180176
+The scheduler = Evolution, makespan = 776.85
+3.015932321548462
+The scheduler = Evolution, makespan = 759.36
+3.2622714042663574
+The scheduler = Evolution, makespan = 743.81
+0.7150869369506836
+The scheduler = Evolution, makespan = 767.58
+7.16682767868042
+The scheduler = Evolution, makespan = 775.16
+7.6664910316467285
+The scheduler = wolf, makespan = 766.01
+1.5877530574798584
+The scheduler = wolf, makespan = 768.99
+0.6382927894592285
+The scheduler = wolf, makespan = 755.63
+1.6455957889556885
+The scheduler = wolf, makespan = 771.38
+2.0784413814544678
+The scheduler = wolf, makespan = 722.21
+2.5641391277313232
+The scheduler = wolf, makespan = 762.95
+3.2303595542907715
+The scheduler = wolf, makespan = 754.34
+1.723419189453125
+The scheduler = wolf, makespan = 771.43
+1.320436954498291
+The scheduler = wolf, makespan = 751.92
+4.564790487289429
+The scheduler = wolf, makespan = 766.44
+0.16156721115112305
+
+Ligo_100_0.xml
+The scheduler = Genetic, makespan = 1915.30
+0.5615265369415283
+The scheduler = Genetic, makespan = 1915.30
+0.5195803642272949
+The scheduler = Genetic, makespan = 1915.30
+0.539557695388794
+The scheduler = Genetic, makespan = 1915.30
+0.5485329627990723
+The scheduler = Genetic, makespan = 1915.30
+0.5216042995452881
+The scheduler = Genetic, makespan = 1915.30
+0.520606279373169
+The scheduler = Genetic, makespan = 1915.30
+0.5535192489624023
+The scheduler = Genetic, makespan = 1915.30
+0.5255954265594482
+The scheduler = Genetic, makespan = 1915.30
+0.5315780639648438
+The scheduler = Genetic, makespan = 1915.30
+0.5475351810455322
+The scheduler = HGA, makespan = 2327.94
+5.462414503097534
+The scheduler = HGA, makespan = 2304.76
+5.855308771133423
+The scheduler = HGA, makespan = 2325.12
+5.39955472946167
+The scheduler = HGA, makespan = 2304.67
+6.4547340869903564
+The scheduler = HGA, makespan = 2283.49
+7.130922794342041
+The scheduler = HGA, makespan = 2305.62
+5.433464527130127
+The scheduler = HGA, makespan = 2347.42
+4.866980314254761
+The scheduler = HGA, makespan = 2103.45
+5.990974426269531
+The scheduler = HGA, makespan = 2310.76
+5.9740190505981445
+The scheduler = HGA, makespan = 2346.11
+4.876952409744263
+The scheduler = NGA, makespan = 1775.46
+1.5109586715698242
+The scheduler = NGA, makespan = 1775.46
+1.5059707164764404
+The scheduler = NGA, makespan = 1775.46
+1.494004487991333
+The scheduler = NGA, makespan = 1775.46
+1.5209319591522217
+The scheduler = NGA, makespan = 1775.46
+1.5538427829742432
+The scheduler = NGA, makespan = 1775.46
+1.4930059909820557
+The scheduler = NGA, makespan = 1775.46
+1.5039756298065186
+The scheduler = NGA, makespan = 1775.46
+1.4870233535766602
+The scheduler = NGA, makespan = 1775.46
+1.4830315113067627
+The scheduler = NGA, makespan = 1775.46
+1.484029769897461
+The scheduler = LWSGA, makespan = 2278.41
+0.6422824859619141
+The scheduler = LWSGA, makespan = 2334.88
+1.8251171112060547
+The scheduler = LWSGA, makespan = 2302.65
+251.52015471458435
+The scheduler = LWSGA, makespan = 2353.25
+19.298376083374023
+The scheduler = LWSGA, makespan = 2253.57
+16.90876531600952
+The scheduler = LWSGA, makespan = 2305.75
+15.848631620407104
+The scheduler = LWSGA, makespan = 2268.93
+0.6302855014801025
+The scheduler = LWSGA, makespan = 2314.40
+5.662852764129639
+The scheduler = LWSGA, makespan = 2326.39
+1.8131492137908936
+The scheduler = LWSGA, makespan = 2315.57
+370.4539933204651
+The scheduler = Evolution, makespan = 2315.33
+0.760962963104248
+The scheduler = Evolution, makespan = 2343.49
+184.59419059753418
+The scheduler = Evolution, makespan = 2294.66
+624.3118937015533
+The scheduler = Evolution, makespan = 2326.01
+651.3445773124695
+The scheduler = Evolution, makespan = 2338.77
+94.34062790870667
+The scheduler = Evolution, makespan = 2354.79
+439.2070984840393
+The scheduler = Evolution, makespan = 2244.70
+627.5741403102875
+The scheduler = Evolution, makespan = 2335.89
+232.46915221214294
+The scheduler = Evolution, makespan = 2317.35
+846.9203555583954
+The scheduler = Evolution, makespan = 2353.92
+19.815021753311157
+The scheduler = wolf, makespan = 2302.32
+5.038490533828735
+The scheduler = wolf, makespan = 2332.89
+10.031167268753052
+The scheduler = wolf, makespan = 2312.93
+12.687060356140137
+The scheduler = wolf, makespan = 2324.76
+6.504597902297974
+The scheduler = wolf, makespan = 2188.80
+6.424814701080322
+The scheduler = wolf, makespan = 2175.39
+4.695438861846924
+The scheduler = wolf, makespan = 2336.61
+7.371279954910278
+The scheduler = wolf, makespan = 2225.04
+8.492283344268799
+The scheduler = wolf, makespan = 2183.56
+8.226990699768066
+The scheduler = wolf, makespan = 2197.49
+6.980327844619751
+
+Ligo_1000_0.xml
+The scheduler = Genetic, makespan = 19139.88
+26.93793821334839
+The scheduler = Genetic, makespan = 19139.88
+26.322611808776855
+The scheduler = Genetic, makespan = 19139.88
+26.604800701141357
+The scheduler = Genetic, makespan = 19139.88
+26.438275575637817
+The scheduler = Genetic, makespan = 19139.88
+26.55695676803589
+The scheduler = Genetic, makespan = 19139.88
+26.5390043258667
+The scheduler = Genetic, makespan = 19139.88
+26.642727613449097
+The scheduler = Genetic, makespan = 19139.88
+26.53601360321045
+The scheduler = Genetic, makespan = 19139.88
+26.506093740463257
+The scheduler = Genetic, makespan = 19139.88
+26.40935230255127
+The scheduler = HGA, makespan = 37913.58
+41.69845151901245
+The scheduler = HGA, makespan = 39045.15
+41.03921556472778
+The scheduler = HGA, makespan = 40074.28
+41.33941149711609
+The scheduler = HGA, makespan = 39237.94
+41.702441453933716
+The scheduler = HGA, makespan = 37881.40
+41.091076135635376
+The scheduler = HGA, makespan = 38151.43
+41.00234293937683
+The scheduler = HGA, makespan = 39033.32
+41.68146848678589
+The scheduler = HGA, makespan = 39285.21
+41.60969066619873
+The scheduler = HGA, makespan = 35958.48
+41.778237104415894
+The scheduler = HGA, makespan = 38012.07
+41.48402523994446
+The scheduler = NGA, makespan = 19028.59
+114.98739576339722
+The scheduler = NGA, makespan = 19028.59
+114.90464496612549
+The scheduler = NGA, makespan = 19028.59
+114.33810496330261
+The scheduler = NGA, makespan = 19028.59
+114.8677430152893
+The scheduler = NGA, makespan = 19028.59
+114.42487287521362
+The scheduler = NGA, makespan = 19007.71
+114.4837703704834
+The scheduler = NGA, makespan = 19028.59
+114.73005533218384
+The scheduler = NGA, makespan = 19028.59
+113.69188928604126
+The scheduler = NGA, makespan = 19028.59
+113.81649994850159
+The scheduler = NGA, makespan = 19028.59
+113.74372410774231
+The scheduler = LWSGA, makespan = 32735.29
+27.164332151412964
+The scheduler = LWSGA, makespan = 31654.32
+27.42064642906189
+The scheduler = LWSGA, makespan = 33963.76
+26.91303324699402
+The scheduler = LWSGA, makespan = 32802.86
+26.71849751472473
+The scheduler = LWSGA, makespan = 33599.71
+27.227164268493652
+The scheduler = LWSGA, makespan = 31883.87
+26.74146294593811
+The scheduler = LWSGA, makespan = 31943.47
+26.71852421760559
+The scheduler = LWSGA, makespan = 32493.71
+27.295981407165527
+The scheduler = LWSGA, makespan = 31656.13
+26.663670539855957
+The scheduler = LWSGA, makespan = 32967.72
+26.735480546951294
+The scheduler = Evolution, makespan = 33586.52
+37.60639762878418
+The scheduler = Evolution, makespan = 31916.23
+37.676212787628174
+The scheduler = Evolution, makespan = 33399.77
+38.13298845291138
+The scheduler = Evolution, makespan = 31434.03
+37.967432737350464
+The scheduler = Evolution, makespan = 34615.46
+38.11304426193237
+The scheduler = Evolution, makespan = 33784.44
+38.33544850349426
+The scheduler = Evolution, makespan = 34152.31
+38.08810997009277
+The scheduler = Evolution, makespan = 32553.13
+38.40426301956177
+The scheduler = Evolution, makespan = 33858.83
+37.9325270652771
+The scheduler = Evolution, makespan = 33549.58
+37.73006725311279
+The scheduler = wolf, makespan = 35020.94
+38.58178973197937
+The scheduler = wolf, makespan = 34197.34
+38.81915330886841
+The scheduler = wolf, makespan = 32018.76
+38.94780969619751
+The scheduler = wolf, makespan = 33833.15
+39.32480263710022
+The scheduler = wolf, makespan = 32979.61
+39.30684995651245
+The scheduler = wolf, makespan = 34955.76
+39.070480823516846
+The scheduler = wolf, makespan = 35990.83
+39.670875549316406
+The scheduler = wolf, makespan = 35355.64
+39.35372519493103
+The scheduler = wolf, makespan = 33547.34
+39.67386722564697
+The scheduler = wolf, makespan = 34632.38
+38.740365743637085
+
+Montage_25_0.xml
+The scheduler = Genetic, makespan = 28.49
+0.11768484115600586
+The scheduler = Genetic, makespan = 28.49
+0.1156911849975586
+The scheduler = Genetic, makespan = 28.49
+0.11768484115600586
+The scheduler = Genetic, makespan = 28.49
+0.12666010856628418
+The scheduler = Genetic, makespan = 28.49
+0.14261889457702637
+The scheduler = Genetic, makespan = 28.49
+0.08477401733398438
+The scheduler = Genetic, makespan = 28.49
+0.11169910430908203
+The scheduler = Genetic, makespan = 28.49
+0.11469459533691406
+The scheduler = Genetic, makespan = 28.49
+0.11668658256530762
+The scheduler = Genetic, makespan = 28.49
+0.1186838150024414
+The scheduler = HGA, makespan = 39.31
+0.3101999759674072
+The scheduler = HGA, makespan = 38.62
+0.2991964817047119
+The scheduler = HGA, makespan = 37.79
+0.2692530155181885
+The scheduler = HGA, makespan = 37.79
+0.19849920272827148
+The scheduler = HGA, makespan = 38.16
+0.2652595043182373
+The scheduler = HGA, makespan = 38.38
+0.2842390537261963
+The scheduler = HGA, makespan = 39.39
+0.1605997085571289
+The scheduler = HGA, makespan = 38.65
+0.28922533988952637
+The scheduler = HGA, makespan = 39.35
+0.2842123508453369
+The scheduler = HGA, makespan = 38.29
+0.2872302532196045
+The scheduler = NGA, makespan = 28.16
+0.24933433532714844
+The scheduler = NGA, makespan = 28.14
+0.24235105514526367
+The scheduler = NGA, makespan = 28.16
+0.24135375022888184
+The scheduler = NGA, makespan = 28.10
+0.2293860912322998
+The scheduler = NGA, makespan = 28.16
+0.2294154167175293
+The scheduler = NGA, makespan = 28.16
+0.26027488708496094
+The scheduler = NGA, makespan = 28.16
+0.24238014221191406
+The scheduler = NGA, makespan = 28.14
+0.23534178733825684
+The scheduler = NGA, makespan = 28.09
+0.23041677474975586
+The scheduler = NGA, makespan = 28.16
+0.23035597801208496
+The scheduler = LWSGA, makespan = 37.71
+83.26628041267395
+The scheduler = LWSGA, makespan = 38.29
+54.54206657409668
+The scheduler = LWSGA, makespan = 39.18
+6.032861232757568
+The scheduler = LWSGA, makespan = 39.46
+6.854664087295532
+The scheduler = LWSGA, makespan = 37.87
+3.167524576187134
+The scheduler = LWSGA, makespan = 39.56
+0.5624961853027344
+The scheduler = LWSGA, makespan = 38.99
+85.19908261299133
+The scheduler = LWSGA, makespan = 35.95
+152.95582461357117
+The scheduler = LWSGA, makespan = 34.69
+491.2408742904663
+The scheduler = LWSGA, makespan = 39.45
+57.0543737411499
+The scheduler = Evolution, makespan = 39.14
+0.723064661026001
+The scheduler = Evolution, makespan = 37.42
+0.5595040321350098
+The scheduler = Evolution, makespan = 39.66
+0.6472678184509277
+The scheduler = Evolution, makespan = 37.71
+0.4089062213897705
+The scheduler = Evolution, makespan = 39.77
+0.21143579483032227
+The scheduler = Evolution, makespan = 37.44
+0.4527876377105713
+The scheduler = Evolution, makespan = 36.98
+0.6003937721252441
+The scheduler = Evolution, makespan = 39.69
+0.6921477317810059
+The scheduler = Evolution, makespan = 37.92
+0.3710360527038574
+The scheduler = Evolution, makespan = 39.76
+0.4577460289001465
+The scheduler = wolf, makespan = 36.05
+0.314159631729126
+The scheduler = wolf, makespan = 37.59
+0.774928092956543
+The scheduler = wolf, makespan = 35.72
+0.22240400314331055
+The scheduler = wolf, makespan = 39.47
+0.23337626457214355
+The scheduler = wolf, makespan = 35.89
+0.13862848281860352
+The scheduler = wolf, makespan = 39.41
+0.22838878631591797
+The scheduler = wolf, makespan = 38.16
+0.2982020378112793
+The scheduler = wolf, makespan = 39.43
+0.39295005798339844
+The scheduler = wolf, makespan = 39.70
+0.4896886348724365
+The scheduler = wolf, makespan = 38.50
+0.2263944149017334
+Montage_100_0.xml
+The scheduler = Genetic, makespan = 104.82
+0.6013922691345215
+The scheduler = Genetic, makespan = 104.82
+0.6083714962005615
+The scheduler = Genetic, makespan = 104.82
+0.5774564743041992
+The scheduler = Genetic, makespan = 104.82
+0.5654871463775635
+The scheduler = Genetic, makespan = 104.82
+0.5924160480499268
+The scheduler = Genetic, makespan = 104.82
+0.5884251594543457
+The scheduler = Genetic, makespan = 104.82
+0.6313109397888184
+The scheduler = Genetic, makespan = 104.82
+0.6153528690338135
+The scheduler = Genetic, makespan = 104.82
+0.5784528255462646
+The scheduler = Genetic, makespan = 104.82
+0.5824418067932129
+The scheduler = HGA, makespan = 147.74
+1.511955976486206
+The scheduler = HGA, makespan = 135.02
+1.417207956314087
+The scheduler = HGA, makespan = 150.56
+0.917574405670166
+The scheduler = HGA, makespan = 134.73
+1.4201726913452148
+The scheduler = HGA, makespan = 150.00
+1.4740564823150635
+The scheduler = HGA, makespan = 138.19
+1.4531137943267822
+The scheduler = HGA, makespan = 139.20
+1.4202005863189697
+The scheduler = HGA, makespan = 148.70
+1.5498545169830322
+The scheduler = HGA, makespan = 146.40
+0.8646864891052246
+The scheduler = HGA, makespan = 140.88
+0.902585506439209
+The scheduler = NGA, makespan = 104.35
+1.6914746761322021
+The scheduler = NGA, makespan = 104.35
+1.654573917388916
+The scheduler = NGA, makespan = 104.35
+1.7323668003082275
+The scheduler = NGA, makespan = 104.35
+1.6675384044647217
+The scheduler = NGA, makespan = 104.35
+1.695465326309204
+The scheduler = NGA, makespan = 104.35
+1.638615608215332
+The scheduler = NGA, makespan = 104.35
+1.7283761501312256
+The scheduler = NGA, makespan = 104.35
+1.655571460723877
+The scheduler = NGA, makespan = 104.35
+1.6984565258026123
+The scheduler = NGA, makespan = 104.35
+1.7353589534759521
+The scheduler = LWSGA, makespan = 145.19
+0.5674803256988525
+The scheduler = LWSGA, makespan = 148.26
+283.7070508003235
+The scheduler = LWSGA, makespan = 143.00
+21.33791995048523
+The scheduler = LWSGA, makespan = 148.36
+161.47303986549377
+The scheduler = LWSGA, makespan = 150.07
+0.5814456939697266
+The scheduler = LWSGA, makespan = 125.79
+491.43435525894165
+The scheduler = LWSGA, makespan = 134.09
+51.97496247291565
+The scheduler = LWSGA, makespan = 135.22
+0.8966450691223145
+The scheduler = LWSGA, makespan = 150.33
+62.908713579177856
+The scheduler = LWSGA, makespan = 149.80
+443.5962941646576
+The scheduler = Evolution, makespan = 147.84
+2.1482532024383545
+The scheduler = Evolution, makespan = 143.69
+2.160222291946411
+The scheduler = Evolution, makespan = 142.76
+1.6884832382202148
+The scheduler = Evolution, makespan = 144.05
+3.003995180130005
+The scheduler = Evolution, makespan = 148.60
+2.5880484580993652
+The scheduler = Evolution, makespan = 139.96
+2.643928289413452
+The scheduler = Evolution, makespan = 150.05
+2.0914053916931152
+The scheduler = Evolution, makespan = 138.71
+3.0967159271240234
+The scheduler = Evolution, makespan = 145.52
+2.620988368988037
+The scheduler = Evolution, makespan = 140.63
+3.0259056091308594
+The scheduler = wolf, makespan = 149.60
+3.6512317657470703
+The scheduler = wolf, makespan = 146.85
+0.7799139022827148
+The scheduler = wolf, makespan = 142.28
+2.259953498840332
+The scheduler = wolf, makespan = 146.73
+1.2785801887512207
+The scheduler = wolf, makespan = 149.09
+3.096717596054077
+The scheduler = wolf, makespan = 147.77
+1.255640983581543
+The scheduler = wolf, makespan = 143.25
+2.8174631595611572
+The scheduler = wolf, makespan = 148.01
+1.7792396545410156
+The scheduler = wolf, makespan = 144.13
+3.2892000675201416
+The scheduler = wolf, makespan = 147.62
+1.2566397190093994
+
+Montage_1000_0.xml
+The scheduler = Genetic, makespan = 1035.84
+30.66097855567932
+The scheduler = Genetic, makespan = 1035.84
+30.113470554351807
+The scheduler = Genetic, makespan = 1035.84
+29.825212478637695
+The scheduler = Genetic, makespan = 1035.84
+29.788313150405884
+The scheduler = Genetic, makespan = 1035.84
+30.282989025115967
+The scheduler = Genetic, makespan = 1035.84
+30.061553716659546
+The scheduler = Genetic, makespan = 1035.84
+30.203202962875366
+The scheduler = Genetic, makespan = 1035.84
+30.185279369354248
+The scheduler = Genetic, makespan = 1035.84
+30.227110862731934
+The scheduler = Genetic, makespan = 1035.84
+29.935919523239136
+The scheduler = HGA, makespan = 1831.17
+41.909884214401245
+The scheduler = HGA, makespan = 1848.86
+41.04320573806763
+The scheduler = HGA, makespan = 1774.02
+41.534889936447144
+The scheduler = HGA, makespan = 1867.59
+41.18682050704956
+The scheduler = HGA, makespan = 1877.57
+41.37930417060852
+The scheduler = HGA, makespan = 1820.37
+41.67451620101929
+The scheduler = HGA, makespan = 1826.94
+41.66155195236206
+The scheduler = HGA, makespan = 1764.56
+41.676509857177734
+The scheduler = HGA, makespan = 1865.91
+41.57278752326965
+The scheduler = HGA, makespan = 1862.59
+41.7383451461792
+The scheduler = NGA, makespan = 1035.26
+125.48930168151855
+The scheduler = NGA, makespan = 1035.26
+123.9873206615448
+The scheduler = NGA, makespan = 1035.26
+125.2728796005249
+The scheduler = NGA, makespan = 1035.26
+123.65919852256775
+The scheduler = NGA, makespan = 1035.26
+124.68744659423828
+The scheduler = NGA, makespan = 1035.25
+124.50393772125244
+The scheduler = NGA, makespan = 1035.26
+125.01457071304321
+The scheduler = NGA, makespan = 1035.25
+124.0810694694519
+The scheduler = NGA, makespan = 1035.27
+124.80014538764954
+The scheduler = NGA, makespan = 1035.26
+125.32476902008057
+The scheduler = LWSGA, makespan = 1842.79
+28.12473464012146
+The scheduler = LWSGA, makespan = 1903.02
+28.273366451263428
+The scheduler = LWSGA, makespan = 1883.76
+27.920308589935303
+The scheduler = LWSGA, makespan = 1958.19
+28.357141971588135
+The scheduler = LWSGA, makespan = 1868.51
+27.752758502960205
+The scheduler = LWSGA, makespan = 1868.07
+28.31724715232849
+The scheduler = LWSGA, makespan = 1916.97
+27.86645483970642
+The scheduler = LWSGA, makespan = 1858.36
+28.21851110458374
+The scheduler = LWSGA, makespan = 1875.40
+27.74976658821106
+The scheduler = LWSGA, makespan = 1885.77
+28.41997265815735
+The scheduler = Evolution, makespan = 1867.93
+41.70643186569214
+The scheduler = Evolution, makespan = 1820.93
+42.86333441734314
+The scheduler = Evolution, makespan = 1799.10
+42.91021013259888
+The scheduler = Evolution, makespan = 1846.54
+43.57942032814026
+The scheduler = Evolution, makespan = 1834.29
+43.15455770492554
+The scheduler = Evolution, makespan = 1789.19
+43.3460431098938
+The scheduler = Evolution, makespan = 1742.75
+43.25429010391235
+The scheduler = Evolution, makespan = 1771.42
+43.47469973564148
+The scheduler = Evolution, makespan = 1703.42
+43.31014060974121
+The scheduler = Evolution, makespan = 1771.35
+43.59238624572754
+The scheduler = wolf, makespan = 1807.91
+44.184799909591675
+The scheduler = wolf, makespan = 1762.76
+44.60367965698242
+The scheduler = wolf, makespan = 1913.75
+44.35537028312683
+The scheduler = wolf, makespan = 1827.13
+44.30146336555481
+The scheduler = wolf, makespan = 1864.31
+44.53489136695862
+The scheduler = wolf, makespan = 1918.64
+44.499929666519165
+The scheduler = wolf, makespan = 1909.20
+44.40122175216675
+The scheduler = wolf, makespan = 1931.84
+43.91851234436035
+The scheduler = wolf, makespan = 1947.94
+44.590715169906616
+The scheduler = wolf, makespan = 1943.38
+44.849024295806885
