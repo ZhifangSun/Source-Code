@@ -1,0 +1,1279 @@
+Epigenomics_24_0.xml
+The scheduler = Genetic, makespan = 2324.86, allE = 5708.60, tradeoff = 2663.23
+9.177298069000244
+The scheduler = Genetic, makespan = 2324.86, allE = 5708.55, tradeoff = 2663.23
+9.171212434768677
+The scheduler = Genetic, makespan = 2324.86, allE = 5705.07, tradeoff = 2662.88
+9.198387861251831
+The scheduler = Genetic, makespan = 2324.86, allE = 5707.39, tradeoff = 2663.11
+9.180976390838623
+The scheduler = Genetic, makespan = 2324.86, allE = 5705.07, tradeoff = 2662.88
+9.195616722106934
+The scheduler = Genetic, makespan = 2324.86, allE = 5705.78, tradeoff = 2662.95
+9.197012424468994
+The scheduler = Genetic, makespan = 2323.39, allE = 5710.05, tradeoff = 2662.06
+9.17048692703247
+The scheduler = Genetic, makespan = 2324.86, allE = 5708.31, tradeoff = 2663.21
+9.171320915222168
+The scheduler = Genetic, makespan = 2324.86, allE = 5707.17, tradeoff = 2663.09
+9.168788194656372
+The scheduler = Genetic, makespan = 2324.86, allE = 5705.83, tradeoff = 2662.96
+9.187487363815308
+The scheduler = HGA, makespan = 2419.87, allE = 5694.51, tradeoff = 2747.33
+9.18221139907837
+The scheduler = HGA, makespan = 2387.85, allE = 5674.25, tradeoff = 2716.49
+9.243316650390625
+The scheduler = HGA, makespan = 2415.98, allE = 5676.29, tradeoff = 2742.01
+9.21693229675293
+The scheduler = HGA, makespan = 2547.96, allE = 5632.82, tradeoff = 2856.45
+9.236274003982544
+The scheduler = HGA, makespan = 2340.89, allE = 5707.94, tradeoff = 2677.60
+9.202841758728027
+The scheduler = HGA, makespan = 2408.81, allE = 5674.18, tradeoff = 2735.35
+9.186485767364502
+The scheduler = HGA, makespan = 2538.68, allE = 5625.88, tradeoff = 2847.40
+9.259003639221191
+The scheduler = HGA, makespan = 2546.51, allE = 5341.83, tradeoff = 2826.04
+9.229711771011353
+The scheduler = HGA, makespan = 2340.65, allE = 5732.30, tradeoff = 2679.82
+9.200429677963257
+The scheduler = HGA, makespan = 2337.38, allE = 5714.05, tradeoff = 2675.05
+9.286980390548706
+The scheduler = NGA, makespan = 2332.43, allE = 5726.02, tradeoff = 2671.79
+9.22370195388794
+The scheduler = NGA, makespan = 2323.39, allE = 5732.45, tradeoff = 2664.30
+9.212476015090942
+The scheduler = NGA, makespan = 2331.19, allE = 5719.06, tradeoff = 2669.98
+9.168872356414795
+The scheduler = NGA, makespan = 2330.48, allE = 5716.42, tradeoff = 2669.07
+9.236372470855713
+The scheduler = NGA, makespan = 2332.81, allE = 5713.92, tradeoff = 2670.92
+9.19779109954834
+The scheduler = NGA, makespan = 2328.45, allE = 5742.12, tradeoff = 2669.82
+9.210657835006714
+The scheduler = NGA, makespan = 2325.73, allE = 5722.03, tradeoff = 2665.36
+9.222344160079956
+The scheduler = NGA, makespan = 2328.45, allE = 5714.19, tradeoff = 2667.02
+9.2483811378479
+The scheduler = NGA, makespan = 2332.28, allE = 5709.84, tradeoff = 2670.04
+9.225615739822388
+The scheduler = NGA, makespan = 2325.73, allE = 5713.63, tradeoff = 2664.52
+9.16969919204712
+The scheduler = LWSGA, makespan = 2648.81, allE = 9062.52, tradeoff = 3290.18
+9.173279762268066
+The scheduler = LWSGA, makespan = 2460.55, allE = 10389.83, tradeoff = 3253.48
+9.172834634780884
+The scheduler = LWSGA, makespan = 2454.38, allE = 9737.81, tradeoff = 3182.72
+9.197878360748291
+The scheduler = LWSGA, makespan = 2616.72, allE = 8256.98, tradeoff = 3180.75
+9.201314926147461
+The scheduler = LWSGA, makespan = 2794.46, allE = 7731.76, tradeoff = 3288.19
+9.22651982307434
+The scheduler = LWSGA, makespan = 2467.90, allE = 9644.10, tradeoff = 3185.52
+9.22199559211731
+The scheduler = LWSGA, makespan = 2566.40, allE = 9383.84, tradeoff = 3248.14
+9.21656847000122
+The scheduler = LWSGA, makespan = 2671.77, allE = 9266.17, tradeoff = 3331.21
+9.19637942314148
+The scheduler = LWSGA, makespan = 2487.65, allE = 8394.68, tradeoff = 3078.35
+9.194238185882568
+The scheduler = LWSGA, makespan = 2665.02, allE = 8180.47, tradeoff = 3216.56
+9.194884538650513
+The scheduler = Evolution, makespan = 2435.91, allE = 5745.93, tradeoff = 2766.91
+9.266818761825562
+The scheduler = Evolution, makespan = 2420.97, allE = 5758.79, tradeoff = 2754.75
+9.196646451950073
+The scheduler = Evolution, makespan = 2444.95, allE = 5793.74, tradeoff = 2779.83
+9.184957265853882
+The scheduler = Evolution, makespan = 2483.67, allE = 5685.09, tradeoff = 2803.81
+9.2569100856781
+The scheduler = Evolution, makespan = 2471.74, allE = 6360.11, tradeoff = 2860.58
+9.254209756851196
+The scheduler = Evolution, makespan = 2495.52, allE = 5698.91, tradeoff = 2815.86
+9.276284456253052
+The scheduler = Evolution, makespan = 2391.49, allE = 6029.68, tradeoff = 2755.31
+9.271472930908203
+The scheduler = Evolution, makespan = 2450.69, allE = 5739.84, tradeoff = 2779.60
+9.166725873947144
+The scheduler = Evolution, makespan = 2434.83, allE = 6289.69, tradeoff = 2820.32
+9.272831678390503
+The scheduler = Evolution, makespan = 2403.36, allE = 6065.44, tradeoff = 2769.57
+9.24234414100647
+The scheduler = wolf, makespan = 2456.08, allE = 6370.22, tradeoff = 2847.49
+9.218429803848267
+The scheduler = wolf, makespan = 2511.95, allE = 6591.20, tradeoff = 2919.87
+9.223867654800415
+The scheduler = wolf, makespan = 2675.12, allE = 5894.75, tradeoff = 2997.08
+9.19442367553711
+The scheduler = wolf, makespan = 2469.30, allE = 6006.94, tradeoff = 2823.06
+9.187621593475342
+The scheduler = wolf, makespan = 2468.63, allE = 8008.18, tradeoff = 3022.59
+9.281405448913574
+The scheduler = wolf, makespan = 2476.46, allE = 7287.90, tradeoff = 2957.60
+9.245810747146606
+The scheduler = wolf, makespan = 2706.94, allE = 5997.12, tradeoff = 3035.96
+9.18277096748352
+The scheduler = wolf, makespan = 2459.33, allE = 7757.26, tradeoff = 2989.12
+9.182007312774658
+The scheduler = wolf, makespan = 2439.31, allE = 6554.95, tradeoff = 2850.87
+9.19792103767395
+The scheduler = wolf, makespan = 2453.02, allE = 5913.34, tradeoff = 2799.05
+9.242145538330078
+The scheduler = TMGA, makespan = 2407.49, allE = 6231.96, tradeoff = 2789.94
+9.168911457061768
+The scheduler = TMGA, makespan = 2346.08, allE = 7103.44, tradeoff = 2821.82
+9.216554164886475
+The scheduler = TMGA, makespan = 2341.35, allE = 6022.78, tradeoff = 2709.49
+9.203518152236938
+The scheduler = TMGA, makespan = 2341.06, allE = 6290.81, tradeoff = 2736.04
+9.203727722167969
+The scheduler = TMGA, makespan = 2344.55, allE = 6123.42, tradeoff = 2722.44
+9.212608098983765
+The scheduler = TMGA, makespan = 2344.11, allE = 7368.54, tradeoff = 2846.55
+9.166817426681519
+The scheduler = TMGA, makespan = 2409.65, allE = 5772.98, tradeoff = 2745.98
+9.21874189376831
+The scheduler = TMGA, makespan = 2346.38, allE = 6915.06, tradeoff = 2803.25
+9.181483745574951
+The scheduler = TMGA, makespan = 2407.49, allE = 5779.38, tradeoff = 2744.68
+9.22217869758606
+The scheduler = TMGA, makespan = 2349.28, allE = 6337.84, tradeoff = 2748.14
+9.22140097618103
+
+Epigenomics_100_0.xml
+The scheduler = Genetic, makespan = 35931.21, allE = 160187.82, tradeoff = 48356.87
+60.07478094100952
+The scheduler = Genetic, makespan = 37797.74, allE = 150639.02, tradeoff = 49081.87
+59.930434703826904
+The scheduler = Genetic, makespan = 35859.22, allE = 159771.16, tradeoff = 48250.41
+60.124571800231934
+The scheduler = Genetic, makespan = 35645.42, allE = 160750.04, tradeoff = 48155.88
+60.0292181968689
+The scheduler = Genetic, makespan = 35589.11, allE = 161028.22, tradeoff = 48133.02
+60.050360918045044
+The scheduler = Genetic, makespan = 36873.82, allE = 154901.43, tradeoff = 48676.58
+60.08442139625549
+The scheduler = Genetic, makespan = 36052.23, allE = 159958.55, tradeoff = 48442.86
+60.01847457885742
+The scheduler = Genetic, makespan = 36735.71, allE = 155932.04, tradeoff = 48655.34
+59.955464363098145
+The scheduler = Genetic, makespan = 36416.28, allE = 157382.44, tradeoff = 48512.90
+60.06000018119812
+The scheduler = Genetic, makespan = 35593.69, allE = 161955.72, tradeoff = 48229.89
+59.92393946647644
+The scheduler = HGA, makespan = 50105.69, allE = 128210.03, tradeoff = 57916.12
+60.20497250556946
+The scheduler = HGA, makespan = 45658.20, allE = 133923.96, tradeoff = 54484.78
+60.19770050048828
+The scheduler = HGA, makespan = 44362.91, allE = 129708.49, tradeoff = 52897.47
+60.23185467720032
+The scheduler = HGA, makespan = 44099.11, allE = 135047.61, tradeoff = 53193.96
+60.04904508590698
+The scheduler = HGA, makespan = 45052.68, allE = 130720.42, tradeoff = 53619.45
+60.405118227005005
+The scheduler = HGA, makespan = 44398.85, allE = 133526.84, tradeoff = 53311.65
+60.46062898635864
+The scheduler = HGA, makespan = 42928.62, allE = 130805.20, tradeoff = 51716.28
+60.34607791900635
+The scheduler = HGA, makespan = 45375.15, allE = 131591.30, tradeoff = 53996.76
+60.23881721496582
+The scheduler = HGA, makespan = 42781.34, allE = 137504.93, tradeoff = 52253.70
+60.05452370643616
+The scheduler = HGA, makespan = 52266.89, allE = 124262.63, tradeoff = 59466.46
+60.08641457557678
+The scheduler = NGA, makespan = 36884.78, allE = 180458.40, tradeoff = 51242.14
+60.02537250518799
+The scheduler = NGA, makespan = 36853.01, allE = 183401.49, tradeoff = 51507.86
+60.45619487762451
+The scheduler = NGA, makespan = 36022.36, allE = 165840.24, tradeoff = 49004.15
+60.01713752746582
+The scheduler = NGA, makespan = 36469.51, allE = 175439.65, tradeoff = 50366.52
+60.35511589050293
+The scheduler = NGA, makespan = 37143.13, allE = 166830.80, tradeoff = 50111.90
+60.10469698905945
+The scheduler = NGA, makespan = 37306.20, allE = 163890.48, tradeoff = 49964.63
+60.022186040878296
+The scheduler = NGA, makespan = 37407.56, allE = 166184.43, tradeoff = 50285.25
+59.980331897735596
+The scheduler = NGA, makespan = 36782.45, allE = 168567.23, tradeoff = 49960.93
+60.620134353637695
+The scheduler = NGA, makespan = 36274.49, allE = 168332.15, tradeoff = 49480.26
+60.38044095039368
+The scheduler = NGA, makespan = 35970.46, allE = 175298.34, tradeoff = 49903.25
+60.592695236206055
+The scheduler = LWSGA, makespan = 40274.91, allE = 292856.07, tradeoff = 65533.03
+60.22537636756897
+The scheduler = LWSGA, makespan = 41686.76, allE = 303639.94, tradeoff = 67882.08
+59.98706912994385
+The scheduler = LWSGA, makespan = 39327.83, allE = 299857.93, tradeoff = 65380.84
+60.14218521118164
+The scheduler = LWSGA, makespan = 49685.41, allE = 243972.24, tradeoff = 69114.09
+59.95602798461914
+The scheduler = LWSGA, makespan = 39631.46, allE = 308326.60, tradeoff = 66500.97
+60.00024366378784
+The scheduler = LWSGA, makespan = 44463.53, allE = 298365.74, tradeoff = 69853.75
+60.005064964294434
+The scheduler = LWSGA, makespan = 40349.45, allE = 256392.57, tradeoff = 61953.76
+60.001675605773926
+The scheduler = LWSGA, makespan = 43142.90, allE = 295944.27, tradeoff = 68423.04
+59.96528196334839
+The scheduler = LWSGA, makespan = 37981.88, allE = 331043.58, tradeoff = 67288.05
+59.99940347671509
+The scheduler = LWSGA, makespan = 42721.47, allE = 296419.19, tradeoff = 68091.24
+60.198631048202515
+The scheduler = Evolution, makespan = 49823.10, allE = 215612.18, tradeoff = 66402.01
+60.13697290420532
+The scheduler = Evolution, makespan = 46586.12, allE = 237006.72, tradeoff = 65628.18
+60.261112451553345
+The scheduler = Evolution, makespan = 51230.91, allE = 231879.94, tradeoff = 69295.81
+60.167221546173096
+The scheduler = Evolution, makespan = 54210.23, allE = 173053.24, tradeoff = 66094.53
+60.28170084953308
+The scheduler = Evolution, makespan = 46291.40, allE = 234638.87, tradeoff = 65126.15
+60.50002908706665
+The scheduler = Evolution, makespan = 53083.79, allE = 186957.50, tradeoff = 66471.16
+60.37261652946472
+The scheduler = Evolution, makespan = 52701.62, allE = 171693.26, tradeoff = 64600.78
+60.49125385284424
+The scheduler = Evolution, makespan = 51999.93, allE = 190824.22, tradeoff = 65882.36
+60.40426516532898
+The scheduler = Evolution, makespan = 50363.59, allE = 181131.21, tradeoff = 63440.35
+60.13394856452942
+The scheduler = Evolution, makespan = 47994.92, allE = 193993.74, tradeoff = 62594.80
+60.46753692626953
+The scheduler = wolf, makespan = 39752.31, allE = 293376.64, tradeoff = 65114.74
+60.21233105659485
+The scheduler = wolf, makespan = 45073.17, allE = 243205.00, tradeoff = 64886.35
+60.21650695800781
+The scheduler = wolf, makespan = 44057.98, allE = 234497.73, tradeoff = 63101.95
+60.346062660217285
+The scheduler = wolf, makespan = 45243.77, allE = 276908.74, tradeoff = 68410.27
+60.56157302856445
+The scheduler = wolf, makespan = 42186.31, allE = 310822.55, tradeoff = 69049.93
+60.18663573265076
+The scheduler = wolf, makespan = 41486.84, allE = 275327.71, tradeoff = 64870.93
+60.10377287864685
+The scheduler = wolf, makespan = 40836.91, allE = 276980.61, tradeoff = 64451.28
+60.14419889450073
+The scheduler = wolf, makespan = 42604.15, allE = 265552.58, tradeoff = 64898.99
+59.92184114456177
+The scheduler = wolf, makespan = 38825.20, allE = 270829.33, tradeoff = 62025.61
+60.31312370300293
+The scheduler = wolf, makespan = 42500.74, allE = 294493.78, tradeoff = 67700.04
+59.92478561401367
+The scheduler = TMGA, makespan = 37357.76, allE = 244346.56, tradeoff = 58056.64
+60.064855098724365
+The scheduler = TMGA, makespan = 38443.70, allE = 236732.75, tradeoff = 58272.61
+60.27283501625061
+The scheduler = TMGA, makespan = 38153.26, allE = 238998.46, tradeoff = 58237.78
+60.20362162590027
+The scheduler = TMGA, makespan = 38688.45, allE = 242977.26, tradeoff = 59117.33
+59.923118114471436
+The scheduler = TMGA, makespan = 37464.60, allE = 243250.85, tradeoff = 58043.23
+60.339303493499756
+The scheduler = TMGA, makespan = 38473.45, allE = 236945.67, tradeoff = 58320.67
+60.04540252685547
+The scheduler = TMGA, makespan = 38692.75, allE = 225360.99, tradeoff = 57359.57
+60.21773409843445
+The scheduler = TMGA, makespan = 37407.76, allE = 246668.63, tradeoff = 58333.85
+60.289021015167236
+The scheduler = TMGA, makespan = 38561.57, allE = 221666.30, tradeoff = 56872.04
+60.07793307304382
+The scheduler = TMGA, makespan = 37270.34, allE = 246421.02, tradeoff = 58185.41
+60.00506806373596
+
+Epigenomics_997_0.xml
+The scheduler = Genetic, makespan = 325716.03, allE = 2297757.79, tradeoff = 522920.21
+3080.2360446453094
+The scheduler = Genetic, makespan = 328394.50, allE = 2246708.33, tradeoff = 520225.88
+3075.6615858078003
+The scheduler = Genetic, makespan = 324632.47, allE = 2261322.25, tradeoff = 518301.45
+3075.097388267517
+The scheduler = Genetic, makespan = 327734.26, allE = 2371550.52, tradeoff = 532115.89
+3073.9877603054047
+The scheduler = Genetic, makespan = 324480.70, allE = 2211431.21, tradeoff = 513175.75
+3080.521474123001
+The scheduler = Genetic, makespan = 325892.84, allE = 2273234.69, tradeoff = 520627.02
+3073.253795146942
+The scheduler = Genetic, makespan = 327192.56, allE = 2152954.82, tradeoff = 509768.79
+3078.9775805473328
+The scheduler = Genetic, makespan = 325189.08, allE = 2244743.29, tradeoff = 517144.50
+3078.8545632362366
+The scheduler = Genetic, makespan = 324357.73, allE = 2295765.21, tradeoff = 521498.48
+3079.2749497890472
+The scheduler = Genetic, makespan = 327579.81, allE = 2371171.65, tradeoff = 531938.99
+3074.862198829651
+The scheduler = HGA, makespan = 646416.44, allE = 2088977.54, tradeoff = 790672.55
+3086.5953254699707
+The scheduler = HGA, makespan = 658074.66, allE = 2055864.41, tradeoff = 797853.63
+3072.1319954395294
+The scheduler = HGA, makespan = 661701.34, allE = 2218798.54, tradeoff = 817411.06
+3088.698264837265
+The scheduler = HGA, makespan = 692648.12, allE = 2283735.98, tradeoff = 851756.91
+3075.378342628479
+The scheduler = HGA, makespan = 608391.82, allE = 2107055.61, tradeoff = 758258.20
+3072.6735138893127
+The scheduler = HGA, makespan = 668551.88, allE = 2123791.56, tradeoff = 814075.85
+3079.3541996479034
+The scheduler = HGA, makespan = 613878.18, allE = 2146656.38, tradeoff = 767156.00
+3094.2164187431335
+The scheduler = HGA, makespan = 612735.77, allE = 2127914.45, tradeoff = 764253.64
+3075.2024874687195
+The scheduler = HGA, makespan = 634826.04, allE = 2315806.88, tradeoff = 802924.12
+3086.700154542923
+The scheduler = HGA, makespan = 681119.26, allE = 2226448.73, tradeoff = 835652.21
+3090.2367889881134
+The scheduler = NGA, makespan = 327193.17, allE = 2894074.84, tradeoff = 583881.34
+3114.6868884563446
+The scheduler = NGA, makespan = 324969.97, allE = 2816582.24, tradeoff = 574131.20
+3106.0733399391174
+The scheduler = NGA, makespan = 326538.43, allE = 2845025.25, tradeoff = 578387.11
+3121.236466407776
+The scheduler = NGA, makespan = 326118.67, allE = 2845441.54, tradeoff = 578050.96
+3122.407901287079
+The scheduler = NGA, makespan = 325278.13, allE = 2831040.84, tradeoff = 575854.40
+3098.544365644455
+The scheduler = NGA, makespan = 328044.06, allE = 2927635.82, tradeoff = 588003.24
+3081.5090515613556
+The scheduler = NGA, makespan = 324602.25, allE = 2911371.54, tradeoff = 583279.18
+3122.569747686386
+The scheduler = NGA, makespan = 324541.02, allE = 2911944.61, tradeoff = 583281.38
+3089.846054315567
+The scheduler = NGA, makespan = 324974.79, allE = 2831214.93, tradeoff = 575598.80
+3095.8660950660706
+The scheduler = NGA, makespan = 325994.27, allE = 2869158.14, tradeoff = 580310.66
+3095.9362137317657
+The scheduler = LWSGA, makespan = 477502.11, allE = 3698487.79, tradeoff = 799600.68
+3081.4480299949646
+The scheduler = LWSGA, makespan = 478472.47, allE = 3759917.62, tradeoff = 806616.98
+3072.6977429389954
+The scheduler = LWSGA, makespan = 457140.27, allE = 3919399.98, tradeoff = 803366.24
+3073.6946892738342
+The scheduler = LWSGA, makespan = 485970.55, allE = 3610052.45, tradeoff = 798378.74
+3080.5874359607697
+The scheduler = LWSGA, makespan = 455317.98, allE = 3859688.27, tradeoff = 795755.01
+3079.6479065418243
+The scheduler = LWSGA, makespan = 460396.93, allE = 3786377.84, tradeoff = 792995.02
+3083.9693038463593
+The scheduler = LWSGA, makespan = 479533.58, allE = 3782383.17, tradeoff = 809818.54
+3073.2786877155304
+The scheduler = LWSGA, makespan = 482173.11, allE = 3777578.17, tradeoff = 811713.62
+3078.367555618286
+The scheduler = LWSGA, makespan = 444323.46, allE = 3738105.43, tradeoff = 773701.66
+3073.579036474228
+The scheduler = LWSGA, makespan = 471152.26, allE = 3762827.86, tradeoff = 800319.82
+3074.7936012744904
+The scheduler = Evolution, makespan = 529551.66, allE = 2650788.11, tradeoff = 741675.30
+3093.8166654109955
+The scheduler = Evolution, makespan = 565017.12, allE = 2412583.25, tradeoff = 749773.73
+3081.556421995163
+The scheduler = Evolution, makespan = 548235.54, allE = 2585848.90, tradeoff = 751996.88
+3092.1772356033325
+The scheduler = Evolution, makespan = 542630.38, allE = 2601695.37, tradeoff = 748536.88
+3075.326607465744
+The scheduler = Evolution, makespan = 532901.26, allE = 2620104.34, tradeoff = 741621.57
+3078.018579006195
+The scheduler = Evolution, makespan = 549831.73, allE = 2451711.12, tradeoff = 740019.67
+3084.209394931793
+The scheduler = Evolution, makespan = 528873.43, allE = 2746643.32, tradeoff = 750650.42
+3078.1937839984894
+The scheduler = Evolution, makespan = 569939.30, allE = 2410037.36, tradeoff = 753949.11
+3090.4230692386627
+The scheduler = Evolution, makespan = 545732.50, allE = 2560140.55, tradeoff = 747173.31
+3089.452373981476
+The scheduler = Evolution, makespan = 576751.52, allE = 2327694.95, tradeoff = 751845.86
+3092.847137928009
+The scheduler = wolf, makespan = 815125.65, allE = 7011477.37, tradeoff = 1434760.82
+3099.6101264953613
+The scheduler = wolf, makespan = 606511.16, allE = 6489295.39, tradeoff = 1194789.58
+3099.896206855774
+The scheduler = wolf, makespan = 794051.66, allE = 6877693.85, tradeoff = 1402415.88
+3078.4899909496307
+The scheduler = wolf, makespan = 813138.89, allE = 6742688.05, tradeoff = 1406093.81
+3079.435065507889
+The scheduler = wolf, makespan = 786263.90, allE = 6790672.10, tradeoff = 1386704.72
+3080.778648853302
+The scheduler = wolf, makespan = 862401.63, allE = 6941031.18, tradeoff = 1470264.58
+3096.5266950130463
+The scheduler = wolf, makespan = 828820.16, allE = 7057293.65, tradeoff = 1451667.51
+3108.3893530368805
+The scheduler = wolf, makespan = 852151.98, allE = 7025425.52, tradeoff = 1469479.33
+3084.1046011447906
+The scheduler = wolf, makespan = 891996.88, allE = 7195514.97, tradeoff = 1522348.69
+3086.447719812393
+The scheduler = wolf, makespan = 649023.91, allE = 6470153.94, tradeoff = 1231136.91
+3097.026130437851
+The scheduler = TMGA, makespan = 324958.48, allE = 3125142.29, tradeoff = 604976.86
+3093.9091622829437
+The scheduler = TMGA, makespan = 329524.59, allE = 3122970.02, tradeoff = 608869.13
+3084.2619137763977
+The scheduler = TMGA, makespan = 327255.22, allE = 3140452.38, tradeoff = 608574.94
+3087.3262844085693
+The scheduler = TMGA, makespan = 327242.39, allE = 3114268.08, tradeoff = 605944.96
+3094.4207849502563
+The scheduler = TMGA, makespan = 326799.32, allE = 3099792.71, tradeoff = 604098.66
+3078.6922810077667
+The scheduler = TMGA, makespan = 325605.16, allE = 3164075.22, tradeoff = 609452.17
+3086.896680831909
+The scheduler = TMGA, makespan = 326760.24, allE = 3134150.79, tradeoff = 607499.29
+3094.002217054367
+The scheduler = TMGA, makespan = 325258.46, allE = 3176657.91, tradeoff = 610398.41
+3074.7860221862793
+The scheduler = TMGA, makespan = 325077.27, allE = 3183369.68, tradeoff = 610906.51
+3073.4336411952972
+The scheduler = TMGA, makespan = 325951.07, allE = 3208548.34, tradeoff = 614210.80
+3073.9345920085907
+
+Ligo_30_0.xml
+The scheduler = Genetic, makespan = 663.40, allE = 2288.07, tradeoff = 825.87
+11.371762752532959
+The scheduler = Genetic, makespan = 662.11, allE = 2293.45, tradeoff = 825.24
+11.320769786834717
+The scheduler = Genetic, makespan = 662.82, allE = 2293.17, tradeoff = 825.86
+11.294494390487671
+The scheduler = Genetic, makespan = 663.10, allE = 2285.16, tradeoff = 825.31
+11.372617244720459
+The scheduler = Genetic, makespan = 665.53, allE = 2313.16, tradeoff = 830.29
+11.350549459457397
+The scheduler = Genetic, makespan = 663.62, allE = 2289.08, tradeoff = 826.17
+11.308768510818481
+The scheduler = Genetic, makespan = 663.29, allE = 2289.23, tradeoff = 825.88
+11.299535274505615
+The scheduler = Genetic, makespan = 663.46, allE = 2288.76, tradeoff = 825.99
+11.315554141998291
+The scheduler = Genetic, makespan = 662.84, allE = 2288.06, tradeoff = 825.36
+11.353880405426025
+The scheduler = Genetic, makespan = 663.10, allE = 2284.96, tradeoff = 825.29
+11.340198993682861
+The scheduler = HGA, makespan = 702.32, allE = 2156.58, tradeoff = 847.75
+11.438958883285522
+The scheduler = HGA, makespan = 672.33, allE = 2301.19, tradeoff = 835.22
+11.332302808761597
+The scheduler = HGA, makespan = 701.30, allE = 2159.21, tradeoff = 847.09
+11.352358341217041
+The scheduler = HGA, makespan = 692.95, allE = 2310.98, tradeoff = 854.75
+11.412745475769043
+The scheduler = HGA, makespan = 740.65, allE = 2135.44, tradeoff = 880.13
+11.440837383270264
+The scheduler = HGA, makespan = 676.70, allE = 2163.58, tradeoff = 825.39
+11.420779466629028
+The scheduler = HGA, makespan = 692.95, allE = 2323.18, tradeoff = 855.97
+11.341989278793335
+The scheduler = HGA, makespan = 708.75, allE = 2153.26, tradeoff = 853.20
+11.388054609298706
+The scheduler = HGA, makespan = 726.16, allE = 2139.42, tradeoff = 867.49
+11.408927202224731
+The scheduler = HGA, makespan = 736.11, allE = 2210.63, tradeoff = 883.56
+11.317684173583984
+The scheduler = NGA, makespan = 682.63, allE = 2168.37, tradeoff = 831.20
+11.379240989685059
+The scheduler = NGA, makespan = 675.62, allE = 2169.68, tradeoff = 825.03
+11.451562404632568
+The scheduler = NGA, makespan = 681.12, allE = 2187.58, tradeoff = 831.77
+11.3361074924469
+The scheduler = NGA, makespan = 675.16, allE = 2168.45, tradeoff = 824.49
+11.34266972541809
+The scheduler = NGA, makespan = 681.16, allE = 2176.20, tradeoff = 830.66
+11.367574691772461
+The scheduler = NGA, makespan = 678.56, allE = 2195.05, tradeoff = 830.21
+11.401725053787231
+The scheduler = NGA, makespan = 674.97, allE = 2184.89, tradeoff = 825.96
+11.34435772895813
+The scheduler = NGA, makespan = 678.57, allE = 2201.17, tradeoff = 830.83
+11.334121465682983
+The scheduler = NGA, makespan = 679.08, allE = 2188.59, tradeoff = 830.03
+11.438210725784302
+The scheduler = NGA, makespan = 682.83, allE = 2177.22, tradeoff = 832.27
+11.351591348648071
+The scheduler = LWSGA, makespan = 833.61, allE = 4862.08, tradeoff = 1236.46
+11.350694179534912
+The scheduler = LWSGA, makespan = 761.32, allE = 4845.28, tradeoff = 1169.72
+11.353641748428345
+The scheduler = LWSGA, makespan = 919.98, allE = 4126.15, tradeoff = 1240.60
+11.337382793426514
+The scheduler = LWSGA, makespan = 785.81, allE = 4554.48, tradeoff = 1162.68
+11.312759399414062
+The scheduler = LWSGA, makespan = 774.75, allE = 4453.30, tradeoff = 1142.61
+11.331432819366455
+The scheduler = LWSGA, makespan = 846.63, allE = 5001.98, tradeoff = 1262.17
+11.355774879455566
+The scheduler = LWSGA, makespan = 747.52, allE = 5082.02, tradeoff = 1180.97
+11.303036212921143
+The scheduler = LWSGA, makespan = 866.92, allE = 4538.19, tradeoff = 1234.05
+11.28741717338562
+The scheduler = LWSGA, makespan = 944.08, allE = 3485.80, tradeoff = 1198.25
+11.308060646057129
+The scheduler = LWSGA, makespan = 984.53, allE = 4369.62, tradeoff = 1323.04
+11.335494995117188
+The scheduler = Evolution, makespan = 802.23, allE = 2891.66, tradeoff = 1011.17
+11.326913118362427
+The scheduler = Evolution, makespan = 761.15, allE = 2758.99, tradeoff = 960.93
+11.297912120819092
+The scheduler = Evolution, makespan = 842.76, allE = 2398.22, tradeoff = 998.31
+11.29081916809082
+The scheduler = Evolution, makespan = 793.79, allE = 2830.38, tradeoff = 997.45
+11.344662189483643
+The scheduler = Evolution, makespan = 820.65, allE = 2664.34, tradeoff = 1005.02
+11.320037841796875
+The scheduler = Evolution, makespan = 796.75, allE = 2750.79, tradeoff = 992.15
+11.361238241195679
+The scheduler = Evolution, makespan = 740.88, allE = 3539.02, tradeoff = 1020.69
+11.34785008430481
+The scheduler = Evolution, makespan = 772.59, allE = 2913.95, tradeoff = 986.73
+11.309432744979858
+The scheduler = Evolution, makespan = 864.96, allE = 2273.22, tradeoff = 1005.79
+11.57533860206604
+The scheduler = Evolution, makespan = 754.17, allE = 3339.72, tradeoff = 1012.73
+11.370523452758789
+The scheduler = wolf, makespan = 818.82, allE = 3446.00, tradeoff = 1081.54
+11.336912155151367
+The scheduler = wolf, makespan = 759.80, allE = 4091.59, tradeoff = 1092.98
+11.347359418869019
+The scheduler = wolf, makespan = 841.83, allE = 3892.12, tradeoff = 1146.86
+11.353990316390991
+The scheduler = wolf, makespan = 794.88, allE = 4243.62, tradeoff = 1139.75
+11.346399068832397
+The scheduler = wolf, makespan = 802.58, allE = 4488.50, tradeoff = 1171.17
+11.338541030883789
+The scheduler = wolf, makespan = 881.55, allE = 3576.16, tradeoff = 1151.01
+11.403900623321533
+The scheduler = wolf, makespan = 812.46, allE = 3513.48, tradeoff = 1082.56
+11.428808689117432
+The scheduler = wolf, makespan = 922.37, allE = 3287.38, tradeoff = 1158.87
+11.306194305419922
+The scheduler = wolf, makespan = 819.67, allE = 5457.09, tradeoff = 1283.41
+11.42261528968811
+The scheduler = wolf, makespan = 815.91, allE = 4150.79, tradeoff = 1149.40
+11.433161973953247
+The scheduler = TMGA, makespan = 736.82, allE = 3266.52, tradeoff = 989.79
+11.314061164855957
+The scheduler = TMGA, makespan = 676.13, allE = 3801.66, tradeoff = 988.68
+11.313941478729248
+The scheduler = TMGA, makespan = 702.97, allE = 3094.69, tradeoff = 942.14
+11.324968338012695
+The scheduler = TMGA, makespan = 683.03, allE = 3644.29, tradeoff = 979.16
+11.343390226364136
+The scheduler = TMGA, makespan = 741.62, allE = 3179.82, tradeoff = 985.44
+11.374033689498901
+The scheduler = TMGA, makespan = 685.46, allE = 3922.68, tradeoff = 1009.18
+11.347896099090576
+The scheduler = TMGA, makespan = 744.97, allE = 3219.84, tradeoff = 992.46
+11.364774942398071
+The scheduler = TMGA, makespan = 683.50, allE = 3815.26, tradeoff = 996.68
+11.395553827285767
+The scheduler = TMGA, makespan = 768.00, allE = 3148.48, tradeoff = 1006.05
+11.316917419433594
+The scheduler = TMGA, makespan = 717.08, allE = 3379.05, tradeoff = 983.28
+11.341050148010254
+
+Ligo_100_0.xml
+The scheduler = Genetic, makespan = 1813.26, allE = 8443.11, tradeoff = 2476.25
+56.081483125686646
+The scheduler = Genetic, makespan = 1861.56, allE = 8279.66, tradeoff = 2503.37
+56.218331813812256
+The scheduler = Genetic, makespan = 1819.21, allE = 8552.77, tradeoff = 2492.57
+56.22775149345398
+The scheduler = Genetic, makespan = 1791.06, allE = 8538.00, tradeoff = 2465.75
+56.18174481391907
+The scheduler = Genetic, makespan = 1819.78, allE = 8506.00, tradeoff = 2488.40
+56.31436324119568
+The scheduler = Genetic, makespan = 1830.71, allE = 8373.97, tradeoff = 2485.04
+56.140273571014404
+The scheduler = Genetic, makespan = 1799.74, allE = 8622.35, tradeoff = 2482.00
+56.26984906196594
+The scheduler = Genetic, makespan = 1849.17, allE = 8346.93, tradeoff = 2498.95
+56.138750076293945
+The scheduler = Genetic, makespan = 1794.50, allE = 8579.87, tradeoff = 2473.04
+56.27118182182312
+The scheduler = Genetic, makespan = 1783.25, allE = 8589.39, tradeoff = 2463.86
+56.16483163833618
+The scheduler = HGA, makespan = 2106.73, allE = 8180.62, tradeoff = 2714.12
+56.15755891799927
+The scheduler = HGA, makespan = 1956.98, allE = 8927.74, tradeoff = 2654.06
+56.103339195251465
+The scheduler = HGA, makespan = 2028.43, allE = 7870.11, tradeoff = 2612.60
+56.32360625267029
+The scheduler = HGA, makespan = 2190.60, allE = 7525.29, tradeoff = 2724.07
+56.48260450363159
+The scheduler = HGA, makespan = 2044.90, allE = 8581.32, tradeoff = 2698.54
+56.69705009460449
+The scheduler = HGA, makespan = 1953.14, allE = 8647.92, tradeoff = 2622.62
+56.68027353286743
+The scheduler = HGA, makespan = 1945.68, allE = 8531.50, tradeoff = 2604.26
+56.42416000366211
+The scheduler = HGA, makespan = 1983.86, allE = 8343.13, tradeoff = 2619.79
+56.64198350906372
+The scheduler = HGA, makespan = 1954.52, allE = 8355.03, tradeoff = 2594.57
+56.61802005767822
+The scheduler = HGA, makespan = 2084.56, allE = 7704.84, tradeoff = 2646.59
+56.128286361694336
+The scheduler = NGA, makespan = 1886.29, allE = 10369.81, tradeoff = 2734.64
+56.32914638519287
+The scheduler = NGA, makespan = 1832.41, allE = 11255.83, tradeoff = 2774.75
+56.80252933502197
+The scheduler = NGA, makespan = 1870.41, allE = 10742.06, tradeoff = 2757.58
+56.32367134094238
+The scheduler = NGA, makespan = 1852.39, allE = 10140.84, tradeoff = 2681.23
+56.125990867614746
+The scheduler = NGA, makespan = 1912.98, allE = 10510.80, tradeoff = 2772.76
+56.64049434661865
+The scheduler = NGA, makespan = 1897.07, allE = 10940.31, tradeoff = 2801.39
+56.86989164352417
+The scheduler = NGA, makespan = 1860.78, allE = 10680.71, tradeoff = 2742.77
+56.69479179382324
+The scheduler = NGA, makespan = 1866.80, allE = 10969.95, tradeoff = 2777.11
+56.72246193885803
+The scheduler = NGA, makespan = 1844.53, allE = 10348.58, tradeoff = 2694.94
+56.353394746780396
+The scheduler = NGA, makespan = 1901.72, allE = 10632.07, tradeoff = 2774.75
+56.81056451797485
+The scheduler = LWSGA, makespan = 2353.94, allE = 17451.84, tradeoff = 3863.73
+56.3284125328064
+The scheduler = LWSGA, makespan = 2267.80, allE = 15938.83, tradeoff = 3634.90
+56.34188413619995
+The scheduler = LWSGA, makespan = 2582.29, allE = 15877.08, tradeoff = 3911.77
+56.32922697067261
+The scheduler = LWSGA, makespan = 2407.15, allE = 18083.49, tradeoff = 3974.78
+56.31194734573364
+The scheduler = LWSGA, makespan = 2462.49, allE = 17563.60, tradeoff = 3972.60
+56.08529615402222
+The scheduler = LWSGA, makespan = 2287.04, allE = 17278.63, tradeoff = 3786.20
+56.19038915634155
+The scheduler = LWSGA, makespan = 2580.78, allE = 15951.34, tradeoff = 3917.84
+56.32569408416748
+The scheduler = LWSGA, makespan = 2473.13, allE = 15354.12, tradeoff = 3761.23
+56.285988569259644
+The scheduler = LWSGA, makespan = 2249.89, allE = 18056.64, tradeoff = 3830.56
+56.317492723464966
+The scheduler = LWSGA, makespan = 2450.49, allE = 17300.47, tradeoff = 3935.49
+56.37307357788086
+The scheduler = Evolution, makespan = 2590.57, allE = 10458.61, tradeoff = 3377.37
+56.58223271369934
+The scheduler = Evolution, makespan = 2506.23, allE = 11778.53, tradeoff = 3433.46
+56.199830293655396
+The scheduler = Evolution, makespan = 2581.09, allE = 10674.89, tradeoff = 3390.47
+56.35817289352417
+The scheduler = Evolution, makespan = 2663.25, allE = 11009.32, tradeoff = 3497.86
+56.37668204307556
+The scheduler = Evolution, makespan = 2562.44, allE = 11253.46, tradeoff = 3431.54
+56.45973539352417
+The scheduler = Evolution, makespan = 2316.34, allE = 13292.27, tradeoff = 3413.93
+56.64035654067993
+The scheduler = Evolution, makespan = 2771.56, allE = 10275.50, tradeoff = 3521.95
+56.54384922981262
+The scheduler = Evolution, makespan = 2725.00, allE = 9944.92, tradeoff = 3446.99
+56.41206669807434
+The scheduler = Evolution, makespan = 2525.59, allE = 11317.25, tradeoff = 3404.76
+56.181029081344604
+The scheduler = Evolution, makespan = 2766.84, allE = 10069.51, tradeoff = 3497.11
+56.41685891151428
+The scheduler = wolf, makespan = 2283.68, allE = 25034.15, tradeoff = 4558.73
+56.13029909133911
+The scheduler = wolf, makespan = 2344.85, allE = 22401.97, tradeoff = 4350.56
+56.42660427093506
+The scheduler = wolf, makespan = 2317.67, allE = 21246.09, tradeoff = 4210.51
+56.48419404029846
+The scheduler = wolf, makespan = 2375.58, allE = 20582.77, tradeoff = 4196.30
+56.656737327575684
+The scheduler = wolf, makespan = 2261.50, allE = 22763.34, tradeoff = 4311.68
+56.115949392318726
+The scheduler = wolf, makespan = 2516.68, allE = 22144.23, tradeoff = 4479.43
+56.27634334564209
+The scheduler = wolf, makespan = 2363.59, allE = 21596.67, tradeoff = 4286.90
+56.691645860672
+The scheduler = wolf, makespan = 2220.00, allE = 21762.56, tradeoff = 4174.26
+56.46891212463379
+The scheduler = wolf, makespan = 2424.52, allE = 23676.74, tradeoff = 4549.74
+56.167409896850586
+The scheduler = wolf, makespan = 2237.70, allE = 19925.58, tradeoff = 4006.49
+56.6741943359375
+The scheduler = TMGA, makespan = 1950.33, allE = 14407.91, tradeoff = 3196.09
+56.17535591125488
+The scheduler = TMGA, makespan = 1894.11, allE = 14793.56, tradeoff = 3184.06
+56.5092978477478
+The scheduler = TMGA, makespan = 1979.72, allE = 14308.33, tradeoff = 3212.58
+56.238783836364746
+The scheduler = TMGA, makespan = 1903.67, allE = 14834.33, tradeoff = 3196.74
+56.390676975250244
+The scheduler = TMGA, makespan = 1861.07, allE = 14662.85, tradeoff = 3141.25
+56.25649929046631
+The scheduler = TMGA, makespan = 1880.77, allE = 14480.22, tradeoff = 3140.72
+56.216859340667725
+The scheduler = TMGA, makespan = 1959.39, allE = 14551.45, tradeoff = 3218.60
+56.229971170425415
+The scheduler = TMGA, makespan = 1946.89, allE = 14041.51, tradeoff = 3156.35
+56.18661713600159
+The scheduler = TMGA, makespan = 1923.96, allE = 14738.36, tradeoff = 3205.40
+56.421714067459106
+The scheduler = TMGA, makespan = 1928.84, allE = 14003.76, tradeoff = 3136.33
+56.5734601020813
+
+Ligo_1000_0.xml
+The scheduler = Genetic, makespan = 19128.41, allE = 163908.98, tradeoff = 33606.47
+3011.383605480194
+The scheduler = Genetic, makespan = 19444.24, allE = 167941.85, tradeoff = 34294.00
+3010.367419719696
+The scheduler = Genetic, makespan = 19197.58, allE = 166038.87, tradeoff = 33881.71
+3016.867020845413
+The scheduler = Genetic, makespan = 19170.15, allE = 165524.35, tradeoff = 33805.57
+3015.704734802246
+The scheduler = Genetic, makespan = 19349.37, allE = 167850.41, tradeoff = 34199.47
+3015.0243124961853
+The scheduler = Genetic, makespan = 19151.93, allE = 163997.22, tradeoff = 33636.46
+3016.854282140732
+The scheduler = Genetic, makespan = 19271.64, allE = 165443.56, tradeoff = 33888.83
+3010.2927889823914
+The scheduler = Genetic, makespan = 19140.98, allE = 166771.35, tradeoff = 33904.02
+3016.8658697605133
+The scheduler = Genetic, makespan = 19137.53, allE = 167100.99, tradeoff = 33933.88
+3017.080420732498
+The scheduler = Genetic, makespan = 19206.63, allE = 166129.07, tradeoff = 33898.87
+3009.27841091156
+The scheduler = HGA, makespan = 22826.49, allE = 146626.62, tradeoff = 35206.50
+3010.531585454941
+The scheduler = HGA, makespan = 23462.79, allE = 152216.45, tradeoff = 36338.16
+3037.6237676143646
+The scheduler = HGA, makespan = 22092.09, allE = 146590.02, tradeoff = 34541.88
+3035.448424577713
+The scheduler = HGA, makespan = 22460.69, allE = 143136.23, tradeoff = 34528.24
+3037.2874467372894
+The scheduler = HGA, makespan = 22876.92, allE = 148305.73, tradeoff = 35419.80
+3011.7371451854706
+The scheduler = HGA, makespan = 22376.31, allE = 147246.26, tradeoff = 34863.31
+3029.568736076355
+The scheduler = HGA, makespan = 22718.49, allE = 149927.86, tradeoff = 35439.43
+3036.288020133972
+The scheduler = HGA, makespan = 23763.83, allE = 138834.49, tradeoff = 35270.90
+3040.2359721660614
+The scheduler = HGA, makespan = 24236.58, allE = 152825.78, tradeoff = 37095.50
+3018.6044704914093
+The scheduler = HGA, makespan = 23095.65, allE = 145762.30, tradeoff = 35362.31
+3009.9793264865875
+The scheduler = NGA, makespan = 19109.35, allE = 174885.84, tradeoff = 34687.00
+3065.150131225586
+The scheduler = NGA, makespan = 19122.51, allE = 177878.49, tradeoff = 34998.11
+3051.4936027526855
+The scheduler = NGA, makespan = 19107.44, allE = 180530.42, tradeoff = 35249.74
+3062.6531660556793
+The scheduler = NGA, makespan = 19126.02, allE = 178519.51, tradeoff = 35065.37
+3016.3632810115814
+The scheduler = NGA, makespan = 19108.67, allE = 178317.85, tradeoff = 35029.59
+3060.563123703003
+The scheduler = NGA, makespan = 19106.98, allE = 179360.89, tradeoff = 35132.37
+3067.132778406143
+The scheduler = NGA, makespan = 19084.16, allE = 177958.07, tradeoff = 34971.55
+3060.0659008026123
+The scheduler = NGA, makespan = 19223.18, allE = 174639.54, tradeoff = 34764.82
+3067.313732147217
+The scheduler = NGA, makespan = 19075.93, allE = 178819.86, tradeoff = 35050.32
+3008.3508722782135
+The scheduler = NGA, makespan = 19057.94, allE = 181923.34, tradeoff = 35344.48
+3061.526418685913
+The scheduler = LWSGA, makespan = 32679.79, allE = 231424.75, tradeoff = 52554.29
+3021.2751591205597
+The scheduler = LWSGA, makespan = 32256.71, allE = 223801.85, tradeoff = 51411.22
+3020.593202352524
+The scheduler = LWSGA, makespan = 31819.84, allE = 227072.50, tradeoff = 51345.11
+3015.8168561458588
+The scheduler = LWSGA, makespan = 31797.10, allE = 230305.95, tradeoff = 51647.98
+3009.836988210678
+The scheduler = LWSGA, makespan = 29862.00, allE = 241892.83, tradeoff = 51065.08
+3022.2189168930054
+The scheduler = LWSGA, makespan = 30103.21, allE = 240603.49, tradeoff = 51153.24
+3014.771720647812
+The scheduler = LWSGA, makespan = 31911.78, allE = 236086.72, tradeoff = 52329.27
+3010.717460155487
+The scheduler = LWSGA, makespan = 31737.57, allE = 232999.36, tradeoff = 51863.75
+3007.4525554180145
+The scheduler = LWSGA, makespan = 31004.25, allE = 236407.72, tradeoff = 51544.60
+3015.9102144241333
+The scheduler = LWSGA, makespan = 32011.22, allE = 234776.07, tradeoff = 52287.71
+3007.85604429245
+The scheduler = Evolution, makespan = 28448.76, allE = 158949.46, tradeoff = 41498.83
+3016.8727736473083
+The scheduler = Evolution, makespan = 29545.05, allE = 151837.31, tradeoff = 41774.28
+3013.873039484024
+The scheduler = Evolution, makespan = 28949.96, allE = 150320.27, tradeoff = 41086.99
+3013.699829339981
+The scheduler = Evolution, makespan = 31843.35, allE = 128673.09, tradeoff = 41526.32
+3031.200541973114
+The scheduler = Evolution, makespan = 29991.81, allE = 143627.63, tradeoff = 41355.39
+3013.0316457748413
+The scheduler = Evolution, makespan = 30280.46, allE = 141193.32, tradeoff = 41371.75
+3010.394585132599
+The scheduler = Evolution, makespan = 30189.18, allE = 142910.22, tradeoff = 41461.28
+3008.6427290439606
+The scheduler = Evolution, makespan = 31150.03, allE = 133938.24, tradeoff = 41428.85
+3010.6919407844543
+The scheduler = Evolution, makespan = 28230.64, allE = 155392.20, tradeoff = 40946.80
+3032.7167296409607
+The scheduler = Evolution, makespan = 29655.39, allE = 143059.18, tradeoff = 40995.77
+3015.998827457428
+The scheduler = wolf, makespan = 92386.72, allE = 493876.84, tradeoff = 132535.73
+3018.5432755947113
+The scheduler = wolf, makespan = 84535.29, allE = 474167.65, tradeoff = 123498.53
+3019.818103313446
+The scheduler = wolf, makespan = 85119.65, allE = 483800.80, tradeoff = 124987.76
+3010.842796087265
+The scheduler = wolf, makespan = 93574.74, allE = 507884.56, tradeoff = 135005.72
+3030.2353229522705
+The scheduler = wolf, makespan = 87677.91, allE = 501716.91, tradeoff = 129081.81
+3040.251694202423
+The scheduler = wolf, makespan = 83875.14, allE = 471651.72, tradeoff = 122652.80
+3008.978971004486
+The scheduler = wolf, makespan = 85769.23, allE = 471473.49, tradeoff = 124339.66
+3020.109030485153
+The scheduler = wolf, makespan = 80534.10, allE = 464775.94, tradeoff = 118958.28
+3031.703763961792
+The scheduler = wolf, makespan = 82438.12, allE = 490962.89, tradeoff = 123290.60
+3028.8892397880554
+The scheduler = wolf, makespan = 86946.63, allE = 473311.35, tradeoff = 125583.10
+3043.2424132823944
+The scheduler = TMGA, makespan = 19173.65, allE = 193319.20, tradeoff = 36588.20
+3026.695834159851
+The scheduler = TMGA, makespan = 19126.85, allE = 195241.20, tradeoff = 36738.28
+3025.568703174591
+The scheduler = TMGA, makespan = 19175.58, allE = 192199.46, tradeoff = 36477.97
+3032.438208580017
+The scheduler = TMGA, makespan = 19146.77, allE = 193782.64, tradeoff = 36610.36
+3021.4677646160126
+The scheduler = TMGA, makespan = 19113.42, allE = 195166.04, tradeoff = 36718.68
+3025.5231425762177
+The scheduler = TMGA, makespan = 19135.09, allE = 191077.70, tradeoff = 36329.35
+3035.5199019908905
+The scheduler = TMGA, makespan = 19197.89, allE = 192393.77, tradeoff = 36517.48
+3024.166437625885
+The scheduler = TMGA, makespan = 19151.04, allE = 192974.95, tradeoff = 36533.43
+3023.3874747753143
+The scheduler = TMGA, makespan = 19151.32, allE = 193229.94, tradeoff = 36559.18
+3027.6531777381897
+The scheduler = TMGA, makespan = 19159.58, allE = 193547.17, tradeoff = 36598.34
+3017.742768764496
+
+Montage_25_0.xml
+The scheduler = Genetic, makespan = 28.15, allE = 73.62, tradeoff = 32.70
+9.805522680282593
+The scheduler = Genetic, makespan = 28.16, allE = 73.63, tradeoff = 32.71
+9.797911405563354
+The scheduler = Genetic, makespan = 28.15, allE = 73.71, tradeoff = 32.71
+9.806705236434937
+The scheduler = Genetic, makespan = 28.16, allE = 73.63, tradeoff = 32.71
+9.802777528762817
+The scheduler = Genetic, makespan = 28.15, allE = 73.79, tradeoff = 32.71
+9.842647552490234
+The scheduler = Genetic, makespan = 28.15, allE = 73.79, tradeoff = 32.71
+9.856395959854126
+The scheduler = Genetic, makespan = 28.19, allE = 73.72, tradeoff = 32.74
+9.839701175689697
+The scheduler = Genetic, makespan = 28.19, allE = 73.64, tradeoff = 32.73
+9.843117952346802
+The scheduler = Genetic, makespan = 28.19, allE = 73.62, tradeoff = 32.73
+9.797939777374268
+The scheduler = Genetic, makespan = 28.15, allE = 73.62, tradeoff = 32.70
+9.797536611557007
+The scheduler = HGA, makespan = 30.59, allE = 70.52, tradeoff = 34.58
+9.8498375415802
+The scheduler = HGA, makespan = 28.58, allE = 82.86, tradeoff = 34.01
+9.867536783218384
+The scheduler = HGA, makespan = 30.54, allE = 72.67, tradeoff = 34.75
+9.836981773376465
+The scheduler = HGA, makespan = 30.73, allE = 70.59, tradeoff = 34.72
+9.901046752929688
+The scheduler = HGA, makespan = 30.52, allE = 72.30, tradeoff = 34.70
+9.901426792144775
+The scheduler = HGA, makespan = 30.36, allE = 72.21, tradeoff = 34.55
+9.823196649551392
+The scheduler = HGA, makespan = 29.04, allE = 74.65, tradeoff = 33.60
+9.825277328491211
+The scheduler = HGA, makespan = 28.94, allE = 73.84, tradeoff = 33.43
+9.836305379867554
+The scheduler = HGA, makespan = 28.16, allE = 73.61, tradeoff = 32.71
+9.907057285308838
+The scheduler = HGA, makespan = 28.63, allE = 74.36, tradeoff = 33.20
+9.95305347442627
+The scheduler = NGA, makespan = 28.26, allE = 73.76, tradeoff = 32.81
+9.822092771530151
+The scheduler = NGA, makespan = 28.28, allE = 74.52, tradeoff = 32.90
+9.93927550315857
+The scheduler = NGA, makespan = 28.28, allE = 74.56, tradeoff = 32.91
+9.838422060012817
+The scheduler = NGA, makespan = 28.28, allE = 74.28, tradeoff = 32.88
+9.859605312347412
+The scheduler = NGA, makespan = 28.29, allE = 74.66, tradeoff = 32.93
+10.166847467422485
+The scheduler = NGA, makespan = 28.14, allE = 74.23, tradeoff = 32.75
+9.907559394836426
+The scheduler = NGA, makespan = 28.25, allE = 74.44, tradeoff = 32.87
+9.807800769805908
+The scheduler = NGA, makespan = 28.21, allE = 75.11, tradeoff = 32.90
+9.817967653274536
+The scheduler = NGA, makespan = 28.16, allE = 73.87, tradeoff = 32.73
+9.929900169372559
+The scheduler = NGA, makespan = 28.22, allE = 75.11, tradeoff = 32.91
+9.848342895507812
+The scheduler = LWSGA, makespan = 38.90, allE = 195.46, tradeoff = 54.56
+9.822341918945312
+The scheduler = LWSGA, makespan = 36.98, allE = 186.95, tradeoff = 51.98
+9.871621131896973
+The scheduler = LWSGA, makespan = 44.01, allE = 150.01, tradeoff = 54.61
+9.802700519561768
+The scheduler = LWSGA, makespan = 41.68, allE = 177.20, tradeoff = 55.23
+9.816524028778076
+The scheduler = LWSGA, makespan = 40.96, allE = 179.08, tradeoff = 54.77
+9.829855680465698
+The scheduler = LWSGA, makespan = 41.80, allE = 171.04, tradeoff = 54.72
+9.808517217636108
+The scheduler = LWSGA, makespan = 41.10, allE = 197.21, tradeoff = 56.71
+10.054017782211304
+The scheduler = LWSGA, makespan = 43.25, allE = 174.58, tradeoff = 56.38
+9.824396133422852
+The scheduler = LWSGA, makespan = 41.99, allE = 180.71, tradeoff = 55.86
+9.861876010894775
+The scheduler = LWSGA, makespan = 44.53, allE = 167.71, tradeoff = 56.85
+9.811347961425781
+The scheduler = Evolution, makespan = 30.55, allE = 95.32, tradeoff = 37.03
+9.859358549118042
+The scheduler = Evolution, makespan = 30.58, allE = 89.70, tradeoff = 36.49
+9.840742349624634
+The scheduler = Evolution, makespan = 30.65, allE = 95.67, tradeoff = 37.15
+9.862144947052002
+The scheduler = Evolution, makespan = 33.49, allE = 73.76, tradeoff = 37.52
+9.841181993484497
+The scheduler = Evolution, makespan = 30.67, allE = 85.87, tradeoff = 36.19
+9.795724391937256
+The scheduler = Evolution, makespan = 32.75, allE = 82.62, tradeoff = 37.74
+9.806570768356323
+The scheduler = Evolution, makespan = 31.73, allE = 86.42, tradeoff = 37.20
+9.900479555130005
+The scheduler = Evolution, makespan = 31.96, allE = 81.19, tradeoff = 36.88
+9.849629163742065
+The scheduler = Evolution, makespan = 30.63, allE = 92.36, tradeoff = 36.80
+9.885585308074951
+The scheduler = Evolution, makespan = 32.54, allE = 85.23, tradeoff = 37.81
+9.920776605606079
+The scheduler = wolf, makespan = 36.79, allE = 178.59, tradeoff = 50.97
+9.892350673675537
+The scheduler = wolf, makespan = 34.20, allE = 189.53, tradeoff = 49.73
+9.796332836151123
+The scheduler = wolf, makespan = 34.37, allE = 190.28, tradeoff = 49.96
+9.897231578826904
+The scheduler = wolf, makespan = 34.46, allE = 166.37, tradeoff = 47.65
+9.887609481811523
+The scheduler = wolf, makespan = 36.06, allE = 163.62, tradeoff = 48.82
+9.89965033531189
+The scheduler = wolf, makespan = 33.99, allE = 158.66, tradeoff = 46.46
+9.798425674438477
+The scheduler = wolf, makespan = 38.21, allE = 176.40, tradeoff = 52.03
+9.826629161834717
+The scheduler = wolf, makespan = 39.51, allE = 132.65, tradeoff = 48.82
+9.918625593185425
+The scheduler = wolf, makespan = 35.51, allE = 177.34, tradeoff = 49.69
+9.874244689941406
+The scheduler = wolf, makespan = 35.42, allE = 142.83, tradeoff = 46.16
+9.878316402435303
+The scheduler = TMGA, makespan = 30.51, allE = 106.83, tradeoff = 38.14
+9.874363660812378
+The scheduler = TMGA, makespan = 28.31, allE = 127.97, tradeoff = 38.28
+9.866201639175415
+The scheduler = TMGA, makespan = 28.44, allE = 123.42, tradeoff = 37.94
+9.801532506942749
+The scheduler = TMGA, makespan = 29.03, allE = 121.79, tradeoff = 38.31
+9.889883279800415
+The scheduler = TMGA, makespan = 29.10, allE = 119.73, tradeoff = 38.16
+9.860642194747925
+The scheduler = TMGA, makespan = 28.45, allE = 130.35, tradeoff = 38.64
+9.887009620666504
+The scheduler = TMGA, makespan = 29.14, allE = 120.56, tradeoff = 38.28
+9.829683065414429
+The scheduler = TMGA, makespan = 28.68, allE = 119.58, tradeoff = 37.77
+9.870149850845337
+The scheduler = TMGA, makespan = 29.01, allE = 119.68, tradeoff = 38.08
+9.804748058319092
+The scheduler = TMGA, makespan = 30.53, allE = 107.11, tradeoff = 38.19
+9.804559230804443
+
+Montage_100_0.xml
+The scheduler = Genetic, makespan = 104.56, allE = 448.29, tradeoff = 138.93
+67.78865003585815
+The scheduler = Genetic, makespan = 104.23, allE = 442.73, tradeoff = 138.08
+67.99277710914612
+The scheduler = Genetic, makespan = 104.39, allE = 452.90, tradeoff = 139.24
+68.04578161239624
+The scheduler = Genetic, makespan = 104.39, allE = 441.36, tradeoff = 138.09
+67.92355680465698
+The scheduler = Genetic, makespan = 104.28, allE = 448.30, tradeoff = 138.68
+67.95108723640442
+The scheduler = Genetic, makespan = 104.30, allE = 451.61, tradeoff = 139.03
+67.89488959312439
+The scheduler = Genetic, makespan = 104.28, allE = 455.25, tradeoff = 139.38
+67.82056474685669
+The scheduler = Genetic, makespan = 104.28, allE = 456.72, tradeoff = 139.52
+67.92677974700928
+The scheduler = Genetic, makespan = 104.29, allE = 439.78, tradeoff = 137.84
+67.81663131713867
+The scheduler = Genetic, makespan = 104.46, allE = 448.69, tradeoff = 138.88
+67.93840718269348
+The scheduler = HGA, makespan = 108.82, allE = 462.67, tradeoff = 144.20
+68.10467481613159
+The scheduler = HGA, makespan = 104.96, allE = 487.54, tradeoff = 143.22
+68.3800938129425
+The scheduler = HGA, makespan = 108.51, allE = 521.07, tradeoff = 149.77
+67.9490430355072
+The scheduler = HGA, makespan = 104.70, allE = 536.73, tradeoff = 147.90
+67.87628817558289
+The scheduler = HGA, makespan = 108.64, allE = 505.21, tradeoff = 148.30
+68.03400158882141
+The scheduler = HGA, makespan = 108.54, allE = 490.47, tradeoff = 146.73
+68.15502572059631
+The scheduler = HGA, makespan = 108.66, allE = 481.79, tradeoff = 145.97
+68.37753510475159
+The scheduler = HGA, makespan = 105.19, allE = 502.58, tradeoff = 144.93
+67.87510228157043
+The scheduler = HGA, makespan = 105.52, allE = 525.65, tradeoff = 147.53
+67.81112813949585
+The scheduler = HGA, makespan = 105.00, allE = 532.74, tradeoff = 147.77
+67.90780425071716
+The scheduler = NGA, makespan = 104.34, allE = 572.37, tradeoff = 151.14
+67.97209906578064
+The scheduler = NGA, makespan = 104.40, allE = 583.89, tradeoff = 152.35
+68.36161017417908
+The scheduler = NGA, makespan = 104.53, allE = 565.73, tradeoff = 150.65
+68.37112236022949
+The scheduler = NGA, makespan = 104.43, allE = 572.32, tradeoff = 151.22
+67.98421549797058
+The scheduler = NGA, makespan = 104.47, allE = 558.25, tradeoff = 149.85
+68.28074622154236
+The scheduler = NGA, makespan = 104.43, allE = 582.92, tradeoff = 152.28
+67.85918068885803
+The scheduler = NGA, makespan = 104.41, allE = 549.57, tradeoff = 148.93
+67.79027152061462
+The scheduler = NGA, makespan = 104.31, allE = 561.65, tradeoff = 150.04
+68.64147162437439
+The scheduler = NGA, makespan = 104.20, allE = 586.56, tradeoff = 152.44
+68.40113997459412
+The scheduler = NGA, makespan = 104.66, allE = 562.24, tradeoff = 150.42
+67.82983946800232
+The scheduler = LWSGA, makespan = 156.05, allE = 1034.75, tradeoff = 243.92
+67.90931582450867
+The scheduler = LWSGA, makespan = 159.99, allE = 985.63, tradeoff = 242.55
+67.814297914505
+The scheduler = LWSGA, makespan = 166.85, allE = 1011.92, tradeoff = 251.36
+67.82508039474487
+The scheduler = LWSGA, makespan = 164.12, allE = 1056.89, tradeoff = 253.40
+68.0311348438263
+The scheduler = LWSGA, makespan = 146.08, allE = 1030.21, tradeoff = 234.49
+68.03295302391052
+The scheduler = LWSGA, makespan = 136.85, allE = 947.49, tradeoff = 217.91
+68.07726550102234
+The scheduler = LWSGA, makespan = 159.07, allE = 986.39, tradeoff = 241.80
+67.97869634628296
+The scheduler = LWSGA, makespan = 159.56, allE = 993.67, tradeoff = 242.97
+67.79133772850037
+The scheduler = LWSGA, makespan = 157.81, allE = 1046.67, tradeoff = 246.70
+68.05425906181335
+The scheduler = LWSGA, makespan = 153.49, allE = 1013.47, tradeoff = 239.49
+68.035977602005
+The scheduler = Evolution, makespan = 131.20, allE = 543.86, tradeoff = 172.47
+68.16426110267639
+The scheduler = Evolution, makespan = 126.83, allE = 525.99, tradeoff = 166.75
+68.47963523864746
+The scheduler = Evolution, makespan = 137.83, allE = 497.65, tradeoff = 173.81
+68.30311393737793
+The scheduler = Evolution, makespan = 126.91, allE = 558.38, tradeoff = 170.06
+67.80155491828918
+The scheduler = Evolution, makespan = 138.82, allE = 485.41, tradeoff = 173.48
+68.35418319702148
+The scheduler = Evolution, makespan = 136.40, allE = 486.42, tradeoff = 171.40
+67.91497278213501
+The scheduler = Evolution, makespan = 137.27, allE = 485.88, tradeoff = 172.13
+68.43011236190796
+The scheduler = Evolution, makespan = 132.56, allE = 535.00, tradeoff = 172.80
+68.28311157226562
+The scheduler = Evolution, makespan = 132.48, allE = 530.74, tradeoff = 172.31
+68.3019666671753
+The scheduler = Evolution, makespan = 129.96, allE = 529.71, tradeoff = 169.94
+68.09939956665039
+The scheduler = wolf, makespan = 137.76, allE = 1259.31, tradeoff = 249.91
+68.26832556724548
+The scheduler = wolf, makespan = 130.45, allE = 1348.26, tradeoff = 252.23
+68.0854480266571
+The scheduler = wolf, makespan = 125.61, allE = 1365.10, tradeoff = 249.56
+67.86772775650024
+The scheduler = wolf, makespan = 144.84, allE = 1308.79, tradeoff = 261.23
+67.91079020500183
+The scheduler = wolf, makespan = 124.06, allE = 1464.51, tradeoff = 258.11
+68.19615340232849
+The scheduler = wolf, makespan = 124.23, allE = 1312.93, tradeoff = 243.10
+67.88425588607788
+The scheduler = wolf, makespan = 127.53, allE = 1340.60, tradeoff = 248.84
+67.87105417251587
+The scheduler = wolf, makespan = 125.43, allE = 1412.57, tradeoff = 254.14
+68.15970778465271
+The scheduler = wolf, makespan = 127.50, allE = 1379.08, tradeoff = 252.66
+68.41893172264099
+The scheduler = wolf, makespan = 130.04, allE = 1391.29, tradeoff = 256.16
+67.7920594215393
+The scheduler = TMGA, makespan = 106.38, allE = 750.06, tradeoff = 170.75
+68.18196487426758
+The scheduler = TMGA, makespan = 104.72, allE = 732.45, tradeoff = 167.49
+68.25995659828186
+The scheduler = TMGA, makespan = 105.28, allE = 783.38, tradeoff = 173.09
+68.155357837677
+The scheduler = TMGA, makespan = 105.51, allE = 725.94, tradeoff = 167.55
+67.86141848564148
+The scheduler = TMGA, makespan = 105.05, allE = 772.29, tradeoff = 171.77
+68.22358393669128
+The scheduler = TMGA, makespan = 108.98, allE = 716.12, tradeoff = 169.69
+67.78230619430542
+The scheduler = TMGA, makespan = 104.90, allE = 746.50, tradeoff = 169.06
+67.80916404724121
+The scheduler = TMGA, makespan = 104.99, allE = 767.37, tradeoff = 171.23
+68.19069957733154
+The scheduler = TMGA, makespan = 104.52, allE = 742.78, tradeoff = 168.35
+68.18221521377563
+The scheduler = TMGA, makespan = 105.21, allE = 764.60, tradeoff = 171.15
+68.06381344795227
+
+Montage_1000_0.xml
+The scheduler = Genetic, makespan = 1041.35, allE = 7585.98, tradeoff = 1695.81
+4134.827314376831
+The scheduler = Genetic, makespan = 1040.06, allE = 7565.36, tradeoff = 1692.59
+4129.0619378089905
+The scheduler = Genetic, makespan = 1040.01, allE = 7665.49, tradeoff = 1702.56
+4131.660587310791
+The scheduler = Genetic, makespan = 1042.99, allE = 7843.28, tradeoff = 1723.02
+4132.711738824844
+The scheduler = Genetic, makespan = 1041.16, allE = 7684.03, tradeoff = 1705.45
+4135.907516479492
+The scheduler = Genetic, makespan = 1038.18, allE = 7899.51, tradeoff = 1724.31
+4128.1126210689545
+The scheduler = Genetic, makespan = 1040.52, allE = 7344.14, tradeoff = 1670.88
+4139.403283119202
+The scheduler = Genetic, makespan = 1041.29, allE = 7531.61, tradeoff = 1690.32
+4134.27974152565
+The scheduler = Genetic, makespan = 1041.73, allE = 7575.07, tradeoff = 1695.06
+4127.400719642639
+The scheduler = Genetic, makespan = 1040.26, allE = 7646.47, tradeoff = 1700.88
+4135.585193634033
+The scheduler = HGA, makespan = 1124.16, allE = 8581.90, tradeoff = 1869.93
+4129.671264886856
+The scheduler = HGA, makespan = 1078.55, allE = 8092.59, tradeoff = 1779.95
+4128.442232847214
+The scheduler = HGA, makespan = 1109.92, allE = 8351.88, tradeoff = 1834.12
+4129.896119832993
+The scheduler = HGA, makespan = 1061.84, allE = 8328.34, tradeoff = 1788.49
+4159.037912845612
+The scheduler = HGA, makespan = 1068.67, allE = 8300.91, tradeoff = 1791.89
+4150.514589548111
+The scheduler = HGA, makespan = 1077.84, allE = 8241.91, tradeoff = 1794.25
+4131.170102596283
+The scheduler = HGA, makespan = 1069.93, allE = 8120.09, tradeoff = 1774.95
+4129.934792995453
+The scheduler = HGA, makespan = 1090.73, allE = 8193.91, tradeoff = 1801.05
+4143.123276472092
+The scheduler = HGA, makespan = 1083.52, allE = 8458.47, tradeoff = 1821.01
+4148.002280473709
+The scheduler = HGA, makespan = 1098.09, allE = 8459.18, tradeoff = 1834.20
+4158.66776061058
+The scheduler = NGA, makespan = 1037.39, allE = 8789.37, tradeoff = 1812.59
+4180.692967176437
+The scheduler = NGA, makespan = 1035.54, allE = 8876.23, tradeoff = 1819.61
+4170.6669907569885
+The scheduler = NGA, makespan = 1036.56, allE = 8831.51, tradeoff = 1816.06
+4176.090270042419
+The scheduler = NGA, makespan = 1036.92, allE = 8866.97, tradeoff = 1819.93
+4126.50429725647
+The scheduler = NGA, makespan = 1036.60, allE = 8853.73, tradeoff = 1818.31
+4162.698679447174
+The scheduler = NGA, makespan = 1038.09, allE = 8750.82, tradeoff = 1809.36
+4176.1233830451965
+The scheduler = NGA, makespan = 1036.11, allE = 8808.55, tradeoff = 1813.35
+4128.425644874573
+The scheduler = NGA, makespan = 1036.78, allE = 8788.62, tradeoff = 1811.96
+4191.928859233856
+The scheduler = NGA, makespan = 1037.08, allE = 8888.22, tradeoff = 1822.19
+4178.657227277756
+The scheduler = NGA, makespan = 1037.91, allE = 8755.48, tradeoff = 1809.67
+4167.109141588211
+The scheduler = LWSGA, makespan = 1836.42, allE = 12084.26, tradeoff = 2861.20
+4134.819875001907
+The scheduler = LWSGA, makespan = 1825.11, allE = 11824.73, tradeoff = 2825.07
+4129.061487197876
+The scheduler = LWSGA, makespan = 1850.49, allE = 12206.97, tradeoff = 2886.14
+4138.486176967621
+The scheduler = LWSGA, makespan = 1788.69, allE = 11667.17, tradeoff = 2776.54
+4138.998676300049
+The scheduler = LWSGA, makespan = 1865.39, allE = 11988.90, tradeoff = 2877.74
+4126.092950344086
+The scheduler = LWSGA, makespan = 1782.54, allE = 12644.51, tradeoff = 2868.74
+4130.36471581459
+The scheduler = LWSGA, makespan = 1838.68, allE = 11865.88, tradeoff = 2841.40
+4131.897416114807
+The scheduler = LWSGA, makespan = 1814.64, allE = 11682.70, tradeoff = 2801.45
+4139.144322872162
+The scheduler = LWSGA, makespan = 1763.71, allE = 11784.87, tradeoff = 2765.83
+4132.7541444301605
+The scheduler = LWSGA, makespan = 1898.51, allE = 11676.30, tradeoff = 2876.29
+4132.166866064072
+The scheduler = Evolution, makespan = 1580.38, allE = 6531.76, tradeoff = 2075.52
+4167.560621500015
+The scheduler = Evolution, makespan = 1495.43, allE = 7207.23, tradeoff = 2066.61
+4139.037697792053
+The scheduler = Evolution, makespan = 1566.53, allE = 6650.07, tradeoff = 2074.88
+4131.648991823196
+The scheduler = Evolution, makespan = 1596.96, allE = 6259.14, tradeoff = 2063.18
+4148.382250070572
+The scheduler = Evolution, makespan = 1499.79, allE = 7073.02, tradeoff = 2057.11
+4135.740856409073
+The scheduler = Evolution, makespan = 1579.78, allE = 6230.38, tradeoff = 2044.84
+4145.416064500809
+The scheduler = Evolution, makespan = 1522.18, allE = 6628.71, tradeoff = 2032.83
+4133.119184017181
+The scheduler = Evolution, makespan = 1602.41, allE = 6032.09, tradeoff = 2045.38
+4144.533912658691
+The scheduler = Evolution, makespan = 1523.11, allE = 7002.67, tradeoff = 2071.07
+4126.964856147766
+The scheduler = Evolution, makespan = 1646.96, allE = 5938.16, tradeoff = 2076.08
+4128.529122591019
+The scheduler = wolf, makespan = 5453.89, allE = 26099.93, tradeoff = 7518.49
+4165.417878866196
+The scheduler = wolf, makespan = 5013.56, allE = 25380.17, tradeoff = 7050.22
+4127.343009233475
+The scheduler = wolf, makespan = 5177.24, allE = 26122.68, tradeoff = 7271.78
+4133.993365049362
+The scheduler = wolf, makespan = 4989.52, allE = 25526.19, tradeoff = 7043.19
+4162.361880064011
+The scheduler = wolf, makespan = 5152.52, allE = 25620.28, tradeoff = 7199.30
+4154.519816637039
+The scheduler = wolf, makespan = 5137.25, allE = 25262.60, tradeoff = 7149.79
+4160.856617927551
+The scheduler = wolf, makespan = 5268.27, allE = 25442.00, tradeoff = 7285.64
+4150.345789194107
+The scheduler = wolf, makespan = 5228.60, allE = 25706.52, tradeoff = 7276.39
+4145.8156979084015
+The scheduler = wolf, makespan = 5436.59, allE = 25265.46, tradeoff = 7419.48
+4142.024253606796
+The scheduler = wolf, makespan = 5327.67, allE = 25414.62, tradeoff = 7336.36
+4143.08375620842
+The scheduler = TMGA, makespan = 1036.69, allE = 9468.25, tradeoff = 1879.85
+4126.687329530716
+The scheduler = TMGA, makespan = 1036.66, allE = 9493.85, tradeoff = 1882.38
+4140.03524684906
+The scheduler = TMGA, makespan = 1036.83, allE = 9347.16, tradeoff = 1867.86
+4146.96928691864
+The scheduler = TMGA, makespan = 1037.25, allE = 9429.69, tradeoff = 1876.49
+4128.872695446014
+The scheduler = TMGA, makespan = 1037.45, allE = 9473.78, tradeoff = 1881.08
+4151.623034000397
+The scheduler = TMGA, makespan = 1036.55, allE = 9459.12, tradeoff = 1878.81
+4142.302317380905
+The scheduler = TMGA, makespan = 1037.32, allE = 9428.55, tradeoff = 1876.44
+4142.443528175354
+The scheduler = TMGA, makespan = 1039.56, allE = 9297.60, tradeoff = 1865.36
+4149.182630777359
+The scheduler = TMGA, makespan = 1037.43, allE = 9414.94, tradeoff = 1875.18
+4151.543000221252
+The scheduler = TMGA, makespan = 1038.17, allE = 9443.39, tradeoff = 1878.69
+4149.099351882935
+
+
