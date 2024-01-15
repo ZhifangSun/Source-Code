@@ -17,18 +17,16 @@ from SCHEDULER.task.Evolutionscheduler import EvolutionScheduler
 from SCHEDULER.task.wolfscheduler import wolfScheduler
 from datetime import datetime
 
-# 处理器数
 processor_number = 3
-# 计算系统初始化
+# Computing system initialization
 ComputingSystem.init(processor_number)
-# 生成应用
+# Generating Applications
 appA = Application("A")
 appB = Application("B")
 appC = Application("C")
 appD = Application("D")
 
 '''HEFT'''
-# 任务执行时间矩阵
 computation_time_matrix = [
     [11.00, 13.00, 9.00], [10.00, 15.00, 11.00], [9.00, 12.00, 14.00],
     [11.00, 16.00, 10.00], [15.00, 11.00, 19.00], [12.00, 9.00, 5.00],
@@ -49,14 +47,13 @@ communication_time_matrix = [
     [INF, INF, INF, INF, INF, INF, INF, 13.00],
     [INF, INF, INF, INF, INF, INF, INF, INF]
 ]
-# 任务数
 task_number = 8
-# 初始化应用
+# Initializing Applications
 ApplicationService.init_application(appA, task_number, computation_time_matrix, computation_cost_matrix,
                                     communication_time_matrix)
 
 chromosome=[[0.32,0.67,0.51,0.98,0.24,0.76,0.43,0.35,0.55,0.2,0.11,0.86,0.19,0.46,0.91,0.63]]
-genetic = GeneticScheduler("Genetic")  #遗传调度
+genetic = GeneticScheduler("Genetic")  #R2GA
 pop ,lists= genetic.create_population(appA,chromosome)
 print(lists)
 elite_sequence=pop[0]
@@ -77,7 +74,7 @@ for k, v in complete_time.items():
     plt.text(v[0]+0.2, k[1], 't'+str(k[0]-1),fontsize=15,	verticalalignment="center")
     # plt.text(v[0] + 0.2, 2 * k[2] - 0.2, str(v[0]) + " " + str(v[1]), fontdict=fontdict_time)
 
-my_y_ticks = np.arange(1, processor_number+1, 1)  # 原始数据有13个点，故此处为设置从0开始，间隔为1
+my_y_ticks = np.arange(1, processor_number+1, 1)  # There are 13 points in the original data, so this is a setup that starts at 0 and has an interval of 1.
 
 plt.yticks(my_y_ticks)
 plt.title("Gantt chart")

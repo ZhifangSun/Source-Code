@@ -25,11 +25,10 @@ from datetime import datetime
 
 
 def main():
-    # 处理器数
     processor_number = 3
-    # 计算系统初始化
+    # Computing system initialization
     ComputingSystem.init(processor_number)
-    # 生成应用
+    # Generating Applications
     appA = Application("A")
     appB = Application("B")
     appC = Application("C")
@@ -38,20 +37,20 @@ def main():
     appF = Application("F")
     appG = Application("G")
 
-    # 任务执行时间矩阵
+    # Task execution time matrix
     computation_time_matrix = [
         [11.00, 13.00, 9.00], [10.00, 15.00, 11.00], [9.00, 12.00, 14.00],
         [11.00, 16.00, 10.00], [15.00, 11.00, 19.00], [12.00, 9.00, 5.00],
         [10.00, 14.00, 13.00], [11.00, 15.00, 10.00]
     ]
-    # 任务执行成本矩阵
+    # Task execution cost matrix
     computation_cost_matrix = [
         [14.00, 9.00, 16.00], [19.00, 13.00, 18.00], [19.00, 13.00, 11.00],
         [13.00, 17.00, 8.00], [12.00, 10.00, 13.00], [13.00, 9.00, 16.00],
         [15.00, 7.00, 11.00], [14.00, 11.00, 5.00], [18.00, 20.00, 12.00],
         [7.00, 21.00, 16.00]
     ]
-    # 任务通信时间矩阵
+    # Task communication time matrix
     communication_time_matrix = [
         [INF, 11.00, 17.00, 14.00, 11.00, INF, INF, INF],
         [INF, INF, INF, INF, INF, 13.00, INF, INF],
@@ -62,10 +61,9 @@ def main():
         [INF, INF, INF, INF, INF, INF, INF, 13.00],
         [INF, INF, INF, INF, INF, INF, INF, INF]
     ]
-    # 任务数
     # task_number = 10
     task_number = 8
-    # 初始化应用
+    # Initializing Applications
     # ApplicationService.init_application(appA, task_number, computation_time_matrix, computation_cost_matrix, communication_time_matrix)
     # ApplicationService.init_application(appB, task_number, computation_time_matrix, computation_cost_matrix, communication_time_matrix)
     # ApplicationService.init_application(appC, task_number, computation_time_matrix, computation_cost_matrix, communication_time_matrix)
@@ -77,7 +75,7 @@ def main():
     heft = HeftScheduler("HEFT")
     ApplicationService.init_application(heft,appA, task_number, computation_time_matrix, computation_cost_matrix,
                                         communication_time_matrix)
-    tasklist,prolist = heft.schedule(appA)  # 调度器执行调度
+    tasklist,prolist = heft.schedule(appA)  # HEFT
     print(tasklist)
     print(prolist)
     end_time = time()
@@ -85,7 +83,7 @@ def main():
     print(run_time)
 
     begin_time = time()
-    genetic = GeneticScheduler("Genetic")  #遗传调度
+    genetic = GeneticScheduler("Genetic")  #R2GA
     ApplicationService.init_application(genetic, appB, task_number, computation_time_matrix, computation_cost_matrix,
                                         communication_time_matrix)
     ga_makespan, ga_cost = genetic.schedule(8,appB,outfilename,0,0)
@@ -94,7 +92,7 @@ def main():
     print(run_time)
 
     begin_time = time()
-    evolution=EvolutionScheduler("Evolution")  #差分进化调度
+    evolution=EvolutionScheduler("Evolution")  #DE
     ApplicationService.init_application(evolution, appC, task_number, computation_time_matrix, computation_cost_matrix,
                                         communication_time_matrix)
     de_makespan = evolution.schedule(appC,outfilename,0,0)
@@ -103,7 +101,7 @@ def main():
     print(run_time)
 
     begin_time = time()
-    wolf = wolfScheduler("wolf")  # 灰狼调度
+    wolf = wolfScheduler("wolf")  # GWO
     ApplicationService.init_application(wolf, appD, task_number, computation_time_matrix, computation_cost_matrix,
                                         communication_time_matrix)
     GWO_makespan = wolf.schedule(appD,outfilename,0,0)
@@ -112,7 +110,7 @@ def main():
     print(run_time)
 
     begin_time = time()
-    HGA = HGAScheduler("HGA")  # HGA遗传调度
+    HGA = HGAScheduler("HGA")  # HGA
     ApplicationService.init_application(HGA, appE, task_number, computation_time_matrix, computation_cost_matrix,
                                         communication_time_matrix)
     hga_makespan, hga_cost = HGA.schedule(1000,appE,outfilename,0,0)
@@ -121,7 +119,7 @@ def main():
     print(run_time)
 
     begin_time = time()
-    NGA = NGAScheduler("NGA")  # NGA遗传调度
+    NGA = NGAScheduler("NGA")  # NGA
     ApplicationService.init_application(NGA, appF, task_number, computation_time_matrix, computation_cost_matrix,
                                         communication_time_matrix)
     nga_makespan, nga_cost = NGA.schedule(1000,appF,outfilename,0,0)
@@ -130,7 +128,7 @@ def main():
     print(run_time)
 
     begin_time = time()
-    LWSGA = LWSGAScheduler("LWSGA")  # LWSGA遗传调度
+    LWSGA = LWSGAScheduler("LWSGA")  # LWSGA
     ApplicationService.init_application(LWSGA, appG, task_number, computation_time_matrix, computation_cost_matrix,
                                         communication_time_matrix)
     lwsga_makespan, lwsga_cost = LWSGA.schedule(1000,appG,outfilename,0,0)

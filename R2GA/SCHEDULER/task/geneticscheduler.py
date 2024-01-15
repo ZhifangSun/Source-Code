@@ -45,9 +45,9 @@ class GeneticScheduler(Scheduler):
         best_ans=[]
         while k < 300:
             half_population = []
-            half_population.extend(self.select(pop_size,population))#每次选择种群里适应度值靠前的一半
-            crossover_chromosomes = self.crossover(app,pop_size,half_population)#前后交叉
-            mutation_chromosomes = self.mutate(app,crossover_chromosomes)#个体变异
+            half_population.extend(self.select(pop_size,population))#Select the top 50% of fitness values in the population at a time.
+            crossover_chromosomes = self.crossover(app,pop_size,half_population)
+            mutation_chromosomes = self.mutate(app,crossover_chromosomes)
             population = population[:pop_size//2]
             population.extend(self.create_population(app, mutation_chromosomes))
             population.sort(key=lambda seq: seq.makespan)
@@ -67,8 +67,8 @@ class GeneticScheduler(Scheduler):
         # print("-" * 100)
         # print("<br/>pop_size = %d<br/>" % pop_size)
         elite_sequence = population[0]
-        makespan = elite_sequence.makespan#调度序列完工时间
-        cost = elite_sequence.cost#调度序列总成本
+        makespan = elite_sequence.makespan
+        cost = elite_sequence.cost
         # tradeoff = ALPHA * makespan + BETA * cost
         if outfilename == 'Appendix 1.txt':
             with open(output_path, 'a', encoding='utf-8') as file1:
@@ -149,7 +149,7 @@ class GeneticScheduler(Scheduler):
         candidate_tasks = []
         chromosome1=[]
         chromosome2 = []
-        candidate_tasks += app.entry_task  # 添加入口任务
+        candidate_tasks += app.entry_task  #Add entry task
         self.reset_tasks(app.tasks)
         for j in range(0, app.tasknum):
             candidate_tasks.sort(key=lambda tsk: tsk.id)
@@ -231,7 +231,7 @@ class GeneticScheduler(Scheduler):
 
         for i in range(1, pop_size):
             chromosome = []
-            for j in range(0, 2 * app.tasknum):#两倍的任务数量
+            for j in range(0, 2 * app.tasknum):#Double the number of tasks
                 chromosome.append(random.random())
             chromosomes.append(chromosome)
 
@@ -243,23 +243,23 @@ class GeneticScheduler(Scheduler):
         i = 0
         population = []
         candidate_tasks = []
-        processor_set = ComputingSystem.processors#处理器
+        processor_set = ComputingSystem.processors
         while chromosomes:    #2 * len(tasks)
             self.reset_tasks(app.tasks)
             candidate_tasks.clear()
-            candidate_tasks+=app.entry_task#添加入口任务
-            chromosome = chromosomes.pop(0)#取出chromosomes种群中第一个个体
+            candidate_tasks+=app.entry_task
+            chromosome = chromosomes.pop(0)#Remove the first individual in the chromosomes population
             # print(chromosome)
 
             tsk_sequence = []
             prossor_sequence = []
-            for j in range(0, app.tasknum):#chromosome整除2
+            for j in range(0, app.tasknum):
                 gene = chromosome[j]
                 candidate_tasks.sort(key=lambda tsk: tsk.id)
-                size = len(candidate_tasks)#入度为0的任务个数
+                size = len(candidate_tasks)#Number of tasks with zero entry
                 # print(size)
                 # scale = 1.0 / size
-                # tsk_index = self.get_index(gene, scale, size)#???
+                # tsk_index = self.get_index(gene, scale, size)
                 tsk_index=int(gene*size)
                 # print(tsk_index)
                 task = candidate_tasks[tsk_index]
@@ -322,36 +322,37 @@ class GeneticScheduler(Scheduler):
         # return i-1
 
     def calculate_response_time_and_cost(self, app, counter, task_sequence, processor_sequence):
-        ComputingSystem.reset(app)  # 重置计算系统. !!!VERY IMPORTANT!!!
+        ComputingSystem.reset(app)  #Reset the computing system. !!!VERY IMPORTANT!!!
 
-        scheduling_list = self.scheduling_lists.setdefault(counter)#判断字典scheduling_lists里是否有键counter，没有自动添加
+        scheduling_list = self.scheduling_lists.setdefault(counter)#Determine if there is a key counter in the dictionary scheduling_lists, if not add it automatically.
 
         if not scheduling_list:
             scheduling_list = SchedulingList("Scheduling_List_%d" % counter)
             # self.scheduling_lists[counter] = scheduling_list
 
-        for i in range(0, app.tasknum):  # 遍历当前消息分组内的所有消息
-            task = task_sequence[i]  # 取任务 task
-            processor = processor_sequence[i]  # 取任务 task 对应的运行处理器 processor
+        for i in range(0, app.tasknum):
+            task = task_sequence[i]  # fetch task task
+            processor = processor_sequence[i]  # Fetch the processor corresponding to the task task processor
 
-            start_time = SchedulerUtils.calculate_earliest_start_time(task, processor)  # 当前遍历处理器上最早可用启动时间
-            finish_time = start_time + task.processor__computation_time[processor]  # 当前遍历处理器上最早可用结束时间
+            start_time = SchedulerUtils.calculate_earliest_start_time(task, processor)  # the earliest available start time on the currently traversed processor
+            finish_time = start_time + task.processor__computation_time[processor]  # the earliest available finish time on the currently traversed processor
 
-            running_span = RunningSpan(start_time, finish_time)  # 上述 for 循环结束后, 最合适的处理器已被找出, 此时可以记录下任务的运行时间段
-            assignment = Assignment(processor, running_span)  # 同时记录下任务的运行时环境
+            running_span = RunningSpan(start_time, finish_time)  # At the end of the above for loop, the most suitable processor has been found, and the running span of the task can be recorded at this point
+            assignment = Assignment(processor, running_span)  # Also record the runtime environment of the task
 
-            task.assignment = assignment  # 设置任务的运行时环境
+            task.assignment = assignment  # Set the runtime environment of the task
 
-            task.is_assigned = True  # 标记任务已被分配
 
-            processor.resident_tasks.append(task)  # 将任务添加至处理器的驻留任务集中
-            processor.resident_tasks.sort(key=lambda tsk: tsk.assignment.running_span.start_time)  # 对处理器的驻留任务进行排序, 依据任务启动时间升序排列
+            task.is_assigned = True  # mark the task as assigned
 
-            scheduling_list.list[task] = assignment  # 将任务与对应运行时环境置于原始调度列表
+            processor.resident_tasks.append(task)  # add the task to the processor's resident task set
+            processor.resident_tasks.sort(key=lambda tsk: tsk.assignment.running_span.start_time)  # Sort the processor's resident tasks, in ascending order by task start time
+
+            scheduling_list.list[task] = assignment  # Place the task in the original scheduling list with the corresponding runtime environment.
 
         makespan = calculate_makespan(scheduling_list)
         # cost = calculate_cost(self.scheduling_lists[counter])
-        scheduling_list.makespan = makespan  # 计算原始调度列表的完工时间
+        scheduling_list.makespan = makespan  # Calculate the completion time of the original scheduling list
         # self.scheduling_lists[counter].cost = cost
 
         # print("The scheduler = %s, list_name = %s, makespan = %.2f" % (self.scheduler_name,
@@ -406,41 +407,40 @@ class GeneticScheduler(Scheduler):
     def Allocation_processor(self,app,tasks):
         ComputingSystem.reset(app)  # 重置计算系统. !!!VERY IMPORTANT!!!
 
-        processors = ComputingSystem.processors  # 处理器集
+        processors = ComputingSystem.processors  # processor set
 
-        processor = None  # 全局处理器
+        processor = None  # global processor
         temp_task_id = []
         temp_processor_id = []
 
-        for task in tasks:  # 遍历排序任务集
+        for task in tasks:  # Iterate through the set of sorting tasks
 
-            earliest_start_time = 0.0  # 初始化全局最早启动时间为0
-            earliest_finish_time = float("inf")  # 初始化全局最早结束时间为无穷大
+            earliest_start_time = 0.0  # Initialize the global earliest start time to 0
+            earliest_finish_time = float("inf")  # Initialize the global earliest end time to infinity
 
-            for p in processors:  # 遍历处理器集
+            for p in processors:  # traverse the set of processors
 
                 earliest_start_time_of_this_processor = SchedulerUtils.calculate_earliest_start_time(task,
-                                                                                                     p)  # 当前遍历处理器上最早可用启动时间
+                                                                                                     p)  # Earliest available start time of the currently traversed processor
                 earliest_finish_time_of_this_processor = earliest_start_time_of_this_processor + \
-                                                         task.processor__computation_time[p]  # 当前遍历处理器上最早可用结束时间
+                                                         task.processor__computation_time[p]  # earliest available finish time of the current traversal processor
 
-                if earliest_finish_time > earliest_finish_time_of_this_processor:  # 如果全局最早启动时间大于当前遍历处理器上最早可用启动时间, 则
-                    earliest_start_time = earliest_start_time_of_this_processor  # 设置全局最早启动时间为当前遍历处理器上最早可用启动时间
-                    earliest_finish_time = earliest_finish_time_of_this_processor  # 设置全局最早结束时间为当前遍历处理器上最早可用结束时间
-                    processor = p  # 设置全局处理器为当前遍历处理器
+                if earliest_finish_time > earliest_finish_time_of_this_processor:  # If the global earliest start time is greater than the earliest available start time on the currently traversed processor, then
+                    earliest_start_time = earliest_start_time_of_this_processor  # Set the global earliest start time to the earliest available start time on the current traversal processor.
+                    earliest_finish_time = earliest_finish_time_of_this_processor  # Set the global earliest finish time to the earliest available finish time on the current traversal processor
+                    processor = p  # Set the global processor to the currently traversed processor
 
             running_span = RunningSpan(earliest_start_time,
-                                       earliest_finish_time)  # 上述 for 循环结束后, 最合适的处理器已被找出, 此时可以记录下任务的运行时间段
-            assignment = Assignment(processor, running_span)  # 同时记录下任务的运行时环境
+                                       earliest_finish_time)  # At the end of the above for loop, the most suitable processor has been found, and the running span of the task can be recorded at this point.
+            assignment = Assignment(processor, running_span)  # Also record the runtime environment of the task
+            task.assignment = assignment  # Set the runtime environment of the task
 
-            task.assignment = assignment  # 设置任务的运行时环境
+            task.is_assigned = True  # mark the task as assigned
 
-            task.is_assigned = True  # 标记任务已被分配
-
-            processor.resident_tasks.append(task)  # 将任务添加至处理器的驻留任务集中
+            processor.resident_tasks.append(task)  # add the task to the processor's resident task set
             temp_task_id.append(task.id)
             # print(processor.id)
             temp_processor_id.append(processor.id)
             processor.resident_tasks.sort(
-                key=lambda tsk: tsk.assignment.running_span.start_time)  # 对处理器的驻留任务进行排序, 依据任务启动时间升序排列
+                key=lambda tsk: tsk.assignment.running_span.start_time)  # Sort the processor's resident tasks, in ascending order of task start time
         return temp_processor_id
