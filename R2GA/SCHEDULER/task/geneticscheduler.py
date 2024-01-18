@@ -43,12 +43,13 @@ class GeneticScheduler(Scheduler):
         population = self.init_population(app, pop_size)
         k = 0
         best_ans=[]
+        s=pop_size//2
         while k < 300:
             half_population = []
-            half_population.extend(self.select(pop_size,population))#Select the top 50% of fitness values in the population at a time.
-            crossover_chromosomes = self.crossover(app,pop_size,half_population)
+            half_population.extend(self.select(pop_size,population,s))#Select the top 50% of fitness values in the population at a time.
+            crossover_chromosomes = self.crossover(app,pop_size,population,s)
             mutation_chromosomes = self.mutate(app,crossover_chromosomes)
-            population = population[:pop_size//2]
+            population = population[:s]
             population.extend(self.create_population(app, mutation_chromosomes))
             population.sort(key=lambda seq: seq.makespan)
             # print("<br/>generation = %d, makespan = %.2f, cost = %.2f, time = %s" % (k, population[0].makespan, population[0].cost, datetime.now().strftime('%Y-%m-%d %H:%M:%S %f')))
@@ -375,13 +376,13 @@ class GeneticScheduler(Scheduler):
         # self.scheduling_lists.clear()
         return makespan,scheduling_list#, cost
 
-    def select(self, pop_size,population):
-        half_population = population[:pop_size//2]
+    def select(self, pop_size,population,s):
+        half_population = population[:s]
         return half_population
 
-    def crossover(self, app,pop_size,population):
+    def crossover(self, app,pop_size,population,s):
         offspring_population = []
-        for i in range(0, pop_size//2-1, 2):
+        for i in range(0, s-1, 2):
             prev_chromosome = []
             next_chromosome = []
             prev_chromosome.extend(population[i].chromosome)
